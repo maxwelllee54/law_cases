@@ -1,0 +1,1934 @@
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+FOR EDUCATIONAL USE ONLY Page 1
+United States Court of Appeals,
+Federal Circuit.
+The PROCTER & GAMBLE COMPANY,
+Plaintiff-Appellee,
+v.
+TEVA PHARMACEUTICALS USA, INC., Defendant-
+Appellant.
+Nos. 2008-1404, 2008-1405, 2008-1406.
+May 13, 2009.
+Background: Owner of patent claiming compound
+risedronate, the active ingredient of an osteoporosis
+drug, brought infringement action against competitor.
+The United States District Court for the District
+of Delaware, Joseph J. Farnan, Jr., J., 536
+F.Supp.2d 476, in a bench trial, entered judgment in
+favor of patent owner. Competitor appealed.
+Holdings: The Court of Appeals, Huff, District
+Judge, sitting by designation, held that:
+(1) district court did not clearly err in finding that
+competitor failed to establish prima facie case of
+obviousness;
+(2) district court did not commit clear error in concluding
+that secondary considerations supported a
+finding of non-obviousness of patent claiming
+risedronate;
+(3) patent claiming an intermittent dosing method
+for treating osteoporosis qualified as prior art; and
+(4) patent claiming risedronate was not invalid
+based on obviousness-type double patenting.
+Affirmed.
+West Headnotes
+[1] Patents 291 324.5
+291 Patents
+291XII Infringement
+291XII(C) Suits in Equity
+291k324 Appeal
+291k324.5 k. Scope and Extent of Review
+in General. Most Cited Cases
+Patents 291 324.55(2)
+291 Patents
+291XII Infringement
+291XII(C) Suits in Equity
+291k324 Appeal
+291k324.55 Questions of Fact, Verdicts,
+and Findings
+291k324.55(2) k. Clearly Erroneous
+Findings. Most Cited Cases
+On appeal from a patent bench trial, the court
+of appeals reviews a district court's conclusions of
+law de novo and findings of fact for clear error.
+[2] Patents 291 324.5
+291 Patents
+291XII Infringement
+291XII(C) Suits in Equity
+291k324 Appeal
+291k324.5 k. Scope and Extent of Review
+in General. Most Cited Cases
+Whether the subject matter of a patent is obvious
+is a question of law and is reviewed de novo.
+[3] Patents 291 324.55(4)
+291 Patents
+291XII Infringement
+291XII(C) Suits in Equity
+291k324 Appeal
+291k324.55 Questions of Fact, Verdicts,
+and Findings
+291k324.55(3) Issues of Validity
+291k324.55(4) k. Novelty, Invention,
+Anticipation, and Obviousness. Most Cited
+Cases
+Factual determinations underlying the issue of
+a patent's obviousness are reviewed for clear error.
+[4] Patents 291 112.5
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 2
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+291 Patents
+291IV Applications and Proceedings Thereon
+291k112 Conclusiveness and Effect of Decisions
+of Patent Office
+291k112.5 k. Sufficiency of Evidence to
+Offset Effect of Decision in General. Most Cited
+Cases
+The evidentiary burden to show facts supporting
+a conclusion of patent invalidity is one of clear
+and convincing evidence.
+[5] Patents 291 324.5
+291 Patents
+291XII Infringement
+291XII(C) Suits in Equity
+291k324 Appeal
+291k324.5 k. Scope and Extent of Review
+in General. Most Cited Cases
+Non-statutory double patenting is a legal question
+reviewed without deference.
+[6] Patents 291 112.1
+291 Patents
+291IV Applications and Proceedings Thereon
+291k112 Conclusiveness and Effect of Decisions
+of Patent Office
+291k112.1 k. In General. Most Cited
+Cases
+Patents are presumed to be valid.
+[7] Patents 291 16.5(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.5 State of Prior Art and Advancement
+Therein
+291k16.5(1) k. In General. Most Cited
+Cases
+Patents 291 36(2)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36(2) k. Degree of Proof and
+Doubt as to Invention. Most Cited Cases
+A party seeking to invalidate a patent based on
+obviousness must demonstrate by clear and convincing
+evidence that a skilled artisan would have been
+motivated to combine the teachings of the prior art
+references to achieve the claimed invention, and
+that the skilled artisan would have had a reasonable
+expectation of success in doing so.
+[8] Patents 291 16(2)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16 Invention and Obviousness in
+General
+291k16(2) k. Prior Art in General.
+Most Cited Cases
+Patents 291 16(3)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16 Invention and Obviousness in
+General
+291k16(3) k. View of Person Skilled in
+Art. Most Cited Cases
+Patents 291 36.1(3)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36.1 Secondary Factors Affecting
+Invention or Obviousness
+291k36.1(3) k. Longstanding Need
+and Solution to Problems. Most Cited Cases
+Patents 291 36.2(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 3
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+291k36 Weight and Sufficiency
+291k36.2 Commercial Success
+291k36.2(1) k. In General. Most
+Cited Cases
+The determination of whether a patent is obvious
+turns on underlying factual inquiries involving:
+(1) the scope and content of prior art, (2) differences
+between claims and prior art, (3) the level of
+ordinary skill in pertinent art, and (4) secondary
+considerations such as commercial success and satisfaction
+of a long-felt need.
+[9] Patents 291 16.25
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.25 k. Chemical Compounds. Most
+Cited Cases
+It is necessary for a patent challenger to identify
+some reason that would have led a chemist to
+modify a known compound in a particular manner
+to establish prima facie obviousness of a new
+claimed compound.
+[10] Patents 291 36.1(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36.1 Secondary Factors Affecting
+Invention or Obviousness
+291k36.1(1) k. In General. Most
+Cited Cases
+If a patent challenger makes a prima facie
+showing of obviousness, the owner may rebut based
+on unexpected results by demonstrating that the
+claimed invention exhibits some superior property
+or advantage that a person of ordinary skill in the
+relevant art would have found surprising or unexpected.
+[11] Patents 291 16.25
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.25 k. Chemical Compounds. Most
+Cited Cases
+An argument that a patent is obvious based on
+structural similarity between claimed and prior art
+compounds clearly depends on a preliminary finding
+that one of ordinary skill in the art would have
+selected the prior art compound as a lead compound.
+[12] Patents 291 36(3)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36(3) k. Particular Methods,
+Devices, or Products. Most Cited Cases
+District court did not clearly err in finding that
+alleged infringer of patent claiming compound
+risedronate, the active ingredient of an osteoporosis
+drug, failed to establish prima facie case of obviousness
+as to challenged claims of the patent; although
+risedronate and prior art compound were
+positional isomers, patent owner's expert witnesses
+testified that, at the time of the invention, a person
+having ordinary skill in the art realized that the
+properties of bisphosphonates, a group of compounds
+of which risedronate was a member, could
+not be anticipated based on their structure, there
+was also an insufficient showing that a person of
+ordinary skill in the art would have had a reasonable
+expectation of success in synthesizing and testing
+risedronate, and there was no credible evidence
+that the structural modification was routine.
+[13] Patents 291 16.25
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.25 k. Chemical Compounds. Most
+Cited Cases
+The question of a patent's obviousness often
+turns on the structural similarities and differences
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 4
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+between the claimed compound and the prior art
+compound.
+[14] Patents 291 16.5(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.5 State of Prior Art and Advancement
+Therein
+291k16.5(1) k. In General. Most Cited
+Cases
+To successfully argue that a new compound is
+obvious, a patent challenger may show that the prior
+art would have suggested making the specific
+molecular modifications necessary to achieve the
+claimed invention; in keeping with the flexible
+nature of the obviousness inquiry, the requisite motivation
+to modify can come from any number of
+sources.
+[15] Patents 291 16.25
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.25 k. Chemical Compounds. Most
+Cited Cases
+In addition to structural similarity between
+claimed and prior art compounds, a patent challenger
+may show a prima facie case of obviousness
+of the claimed compound by adequate support in
+the prior art for the change in structure.
+[16] Patents 291 16.25
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.25 k. Chemical Compounds. Most
+Cited Cases
+A known compound may suggest its homolog,
+analog, or isomer because such compounds often
+have similar properties and therefore chemists of
+ordinary skill would ordinarily contemplate making
+them to try to obtain compounds with improved
+properties; however, it remains necessary for a patent
+challenger to identify some reason that would
+have led a chemist to modify a known compound in
+a particular manner to establish prima facie obviousness
+of a new claimed compound.
+[17] Patents 291 36.1(3)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36.1 Secondary Factors Affecting
+Invention or Obviousness
+291k36.1(3) k. Longstanding Need
+and Solution to Problems. Most Cited Cases
+Obviousness of a patent cannot be avoided
+simply by a showing of some degree of unpredictability
+in the art so long as there was a reasonable
+probability of success.
+[18] Patents 291 16.5(4)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.5 State of Prior Art and Advancement
+Therein
+291k16.5(4) k. Remedying Defects or
+Solving Problems. Most Cited Cases
+When a person of ordinary skill is faced with a
+finite number of identified, predictable solutions to
+a problem and pursues the known options within his
+or her technical grasp, the resulting discovery is
+likely the product not of innovation but of ordinary
+skill and common sense, for purposes of determining
+whether a patent is obvious.
+[19] Patents 291 16.5(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.5 State of Prior Art and Advancement
+Therein
+291k16.5(1) k. In General. Most Cited
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 5
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+Cases
+Granting patent protection to advances that
+would occur in the ordinary course without real innovation
+retards progress; in other cases, though,
+researchers can only vary all parameters or try each
+of numerous possible choices until one possibly arrives
+at a successful result, where the prior art gives
+either no indication of which parameters are critical
+or no direction as to which of many possible
+choices is likely to be successful, and in such cases,
+courts should not succumb to hindsight claims of
+obviousness.
+[20] Patents 291 16.5(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k16.5 State of Prior Art and Advancement
+Therein
+291k16.5(1) k. In General. Most Cited
+Cases
+Patents are not barred just because it was obvious
+to explore a new technology or general approach
+that seemed to be a promising field of experimentation,
+where the prior art gave only general
+guidance as to the particular form of the claimed invention
+or how to achieve it.
+[21] Patents 291 36.1(3)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36.1 Secondary Factors Affecting
+Invention or Obviousness
+291k36.1(3) k. Longstanding Need
+and Solution to Problems. Most Cited Cases
+District court did not commit clear error in concluding
+that risedronate, the active ingredient of an
+osteoporosis drug, met long-felt unmet need and
+that secondary considerations supported a finding
+of non-obviousness of patent claiming risedronate,
+even though competing drug alendronate was available
+before risedronate, where alendronate was not
+produced until 10 years after the filing of the patent
+claiming risedronate.
+[22] Patents 291 36.1(3)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36.1 Secondary Factors Affecting
+Invention or Obviousness
+291k36.1(3) k. Longstanding Need
+and Solution to Problems. Most Cited Cases
+Patents 291 36.2(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36.2 Commercial Success
+291k36.2(1) k. In General. Most
+Cited Cases
+Secondary considerations of non-obviousness
+of a patent include the commercial success of the
+invention at issue and its satisfaction of a long-felt
+need.
+[23] Patents 291 36.1(1)
+291 Patents
+291II Patentability
+291II(A) Invention; Obviousness
+291k36 Weight and Sufficiency
+291k36.1 Secondary Factors Affecting
+Invention or Obviousness
+291k36.1(1) k. In General. Most
+Cited Cases
+When present, secondary considerations of
+non-obviousness of a patent may often be the most
+probative and cogent evidence of non-obviousness
+in the record.
+[24] Patents 291 91(4)
+291 Patents
+291III Persons Entitled to Patents
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 6
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+291k91 Evidence as to Originality and Priority
+291k91(4) k. Weight and Sufficiency in
+Particular Cases. Most Cited Cases
+Owner of patent claiming risedronate, the active
+ingredient of an osteoporosis drug, who offered
+testimony of inventor named in patent that he synthesized
+risedronate before patent claiming an intermittent
+dosing method for treating osteoporosis was
+filed, failed to provide adequate corroborating evidence
+of an earlier invention date for risedronate,
+and therefore patent claiming an intermittent dosing
+method for treating osteoporosis qualified as prior
+art for purposes of infringement action involving
+patent claiming risedronate.
+[25] Patents 291 91(3)
+291 Patents
+291III Persons Entitled to Patents
+291k91 Evidence as to Originality and Priority
+291k91(3) k. Weight and Sufficiency in
+General. Most Cited Cases
+When a party seeks to prove conception via the
+oral testimony of a putative inventor, the party must
+proffer evidence corroborating that testimony; the
+inventor must provide independent corroborating
+evidence in addition to his own statements and documents.
+[26] Patents 291 120
+291 Patents
+291V Requisites and Validity of Letters Patent
+291k120 k. Patents for Same Invention. Most
+Cited Cases
+Alleged infringer of patent claiming compound
+risedronate, the active ingredient of an osteoporosis
+drug, failed to present clear and convincing evidence
+of overlap between the claims of that patent
+and prior art patent claiming an intermittent dosing
+method for treating osteoporosis, so as to invalidate
+the patent claiming risedronate based on obvious-
+ness-type double patenting, as the prior art patent
+claimed no new compounds.
+[27] Patents 291 120
+291 Patents
+291V Requisites and Validity of Letters Patent
+291k120 k. Patents for Same Invention. Most
+Cited Cases
+The double patenting doctrine is designed to
+prevent a patent owner from extending his exclusive
+rights to an invention through claims in a later-
+filed patent that are not patentably distinct from
+claims in the earlier filed patent.
+[28] Patents 291 120
+291 Patents
+291V Requisites and Validity of Letters Patent
+291k120 k. Patents for Same Invention. Most
+Cited Cases
+In general, the obviousness analysis applies to
+double patenting, except for three distinctions: first,
+statutory obviousness compares claimed subject
+matter to the prior art, while non-statutory double
+patenting compares claims in an earlier patent to
+claims in a later patent or application; second,
+double patenting does not require inquiry into a
+motivation to modify the prior art; and third, double
+patenting does not require inquiry into objective
+criteria suggesting non-obviousness.
+Patents 291 328(2)
+291 Patents
+291XIII Decisions on the Validity, Construction,
+and Infringement of Particular Patents
+291k328 Patents Enumerated
+291k328(2) k. Original Utility. Most
+Cited Cases
+4,761,406. Cited as Prior Art.
+Patents 291 328(2)
+291 Patents
+291XIII Decisions on the Validity, Construction,
+and Infringement of Particular Patents
+291k328 Patents Enumerated
+291k328(2) k. Original Utility. Most
+Cited Cases
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 7
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+5,583,122. Valid.
+*992 William F. Lee, Wilmer Cutler Pickering Hale
+& Dorr LLP, of Boston, MA, argued for plaintiffappellee.
+With him on the brief were Vinita Ferrera
+and Allen C. Nunnally. Also on the brief were David
+B. Bassett and Christopher J. Meade, of New
+York, NY.
+James Galbraith, Kenyon & Kenyon LLP, of New
+York, NY, argued for defendant-appellant. With
+him on the brief were Maria Luisa Palmese, and A.
+Antony Pfeffer.
+Before MAYER, DYK, Circuit Judges, and HUFF,
+FN*
+District Judge.
+FN* Honorable Marilyn L. Huff, District
+Judge, United States District Court for the
+Southern District of california, sitting by
+designation.
+HUFF, District Judge.
+Teva Pharmaceuticals USA, Inc. (Teva) appeals
+from a final judgment of the United States
+District Court for the District of Delaware in favor
+of The Procter & Gamble Company (P & G) in
+three cases upholding the validity of P & G's U.S.
+Patent 5,583,122 (the '122 patent ). Procter &
+Gamble Co. v. Teva Pharmaceuticals USA, Inc.,
+536 F.Supp.2d 476 (D.Del.2008). After a bench trial
+and a stipulation for judgment in the related
+cases, the district court rejected Teva's invalidity
+defenses of obviousness and obviousness-type
+double patenting. We affirm.
+I. BACKGROUND
+The '122 patent claims the compound risedronate,
+the active ingredient of P & G's osteoporosis
+drug Actonel. In August 2004, P & G sued Teva
+for infringement of the '122 patent after Teva notified
+P & G that it planned to market risedronate as
+a generic equivalent of Actonel. Specifically, P &
+G alleged that Teva's proposed drug infringed claim
+4 of the '122 patent for the compound risedronate,
+claim 16 for pharmaceutical compositions containing
+risedronate, and claim 23 for methods of
+treating diseases using risedronate. In its defense,
+Teva argued that the '122 *993 patent was invalid
+as obvious in light of P & G's expired U.S. Patent
+4,761,406 (the '406 patent), filed on June 6, 1985
+and issued on August 2, 1988. Alternately, Teva argues
+that the '122 patent is invalid for obviousness-
+type double patenting.
+Risedronate, the subject of the contested
+claims, is a member of a group of compounds referred
+to as bisphosphonates. Bisphosphonates, in
+general, are active in inhibiting bone resorption.
+The first two promising bisphosphonates studied
+for the treatment of metabolic bone diseases, etidronate
+(EHDP) and clodronate, had clinical problems
+which prevented their commercialization. P & G
+conducted a significant amount of experimentation
+involving hundreds of different bisphosphonate
+compounds, but could not predict the efficacy or
+toxicity of the new compounds. Eventually, researchers
+at P & G identified risedronate as a promising
+drug candidate.
+On December 6, 1985, risedronate's inventors
+applied for a patent on the compound. P & G is the
+owner by assignment of the '122 patent, entitled
+Pharmaceutical Compositions Containing Geminal
+Diphosphonates, which issued on December 10,
+1996.
+Risedronate is neither claimed nor disclosed in
+the '406 patent. Instead, the '406 patent, entitled
+Regimen for Treating Osteoporosis, claims an intermittent
+dosing method for treating osteoporosis.
+As the trial court noted, the '406 patent addresses
+the central problem seen in bisphosphonates at the
+time, namely that they inhibited bone mineralization,
+by teaching the use of a cyclic administrative
+regimen to achieve a separation of the benign effect
+of anti-resorption from the unwanted side effect of
+anti-mineralization in patients. Procter & Gamble,
+536 F.Supp.2d at 492. The ' 406 patent lists thirty-
+six polyphosphonate molecules as treatment can
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 8
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+didates and eight preferred compounds for intermittent
+dosing, including 2-pyr EHDP. Teva contends
+that the structural similarities between risedronate
+and 2-pyr EHDP render the challenged claims of
+the '122 patent obvious.
+From the testimony at trial, the district court
+concluded that the ' 406 patent would not have led a
+person of ordinary skill in the art to identify 2-pyr
+EHDP as the lead compound. In light of the extremely
+unpredictable nature of bisphosphonates at
+the time of the invention, the district court also
+found that a person of ordinary skill in the art
+would not have been motivated to make the specific
+molecular modifications to make risedronate. The
+district court concluded that unexpected results of
+risedronate's potency and toxicity rebut a claim of
+obviousness. The district court found that secondary
+considerations of non-obviousness supported its
+conclusions. Similarly, the court found that the '122
+patent was not invalid for obviousness-type double
+patenting. This consolidated appeal followed. We
+have jurisdiction pursuant to 28 U.S.C.
+1295(a)(1).
+II. DISCUSSION
+I. Standard of Review
+[1][2][3][4][5] On appeal from a bench trial,
+this court reviews the district court's conclusions of
+law de novo and findings of fact for clear error.
+Golden Blount, Inc. v. Robert H. Peterson Co., 365
+F.3d 1054, 1058 (Fed.Cir.2004). Whether the subject
+matter of a patent is obvious is a question of
+law and is reviewed de novo. PharmaStem Therapeutics,
+Inc. v. ViaCell, Inc., 491 F.3d 1342, 1359
+(Fed.Cir.2007). Factual determinations underlying
+the obviousness issue are reviewed for clear error.
+Alza Corp. v. Mylan Labs., Inc., 464 F.3d 1286,
+1289 (Fed.Cir.2006). The evidentiary burden to
+show facts supporting a *994 conclusion of invalidity
+is one of clear and convincing evidence. AK
+Steel Corp. v. Sollac & Ugine, 344 F.3d 1234,
+1238-39 (Fed.Cir.2003). Non-statutory double patenting
+is a legal question reviewed without deference.
+Georgia-Pacific Corp. v. U.S. Gypsum Co.,
+195 F.3d 1322, 1326 (Fed.Cir.1999).
+II. Patent Obviousness-Legal Standard
+[6][7] Under the U.S. Patent Act, an invention
+cannot be patented if the subject matter as a whole
+would have been obvious at the time the invention
+was made to a person having ordinary skill in the
+art to which said subject matter pertains. 35 U.S.C.
+103(a). Patents are presumed to be valid. Kao
+Corp. v. Unilever U.S., Inc., 441 F.3d 963, 968
+(Fed.Cir.2006). A party seeking to invalidate a patent
+based on obviousness must demonstrate by
+clear and convincing evidence that a skilled artisan
+would have been motivated to combine the teachings
+of the prior art references to achieve the
+claimed invention, and that the skilled artisan
+would have had a reasonable expectation of success
+in doing so. Pfizer, Inc. v. Apotex, Inc., 480 F.3d
+1348, 1361 (Fed.Cir.2007). Clear and convincing
+evidence places in the fact finder an abiding conviction
+that the truth of [the] factual contentions are
+highly probable. Colorado v. New Mexico, 467
+U.S. 310, 316, 104 S.Ct. 2433, 81 L.Ed.2d 247
+(1984) (quotation marks omitted).
+[8][9] The obviousness determination turns on
+underlying factual inquiries involving: (1) the scope
+and content of prior art, (2) differences between
+claims and prior art, (3) the level of ordinary skill
+in pertinent art, and (4) secondary considerations
+such as commercial success and satisfaction of a
+long-felt need. Graham v. John Deere Co., 383
+U.S. 1, 17, 86 S.Ct. 684, 15 L.Ed.2d 545 (1966).
+The Supreme Court has explained that the Federal
+Circuit's teaching, suggestion or motivation test
+provides helpful insight into the obviousness question
+as long as it is not applied rigidly. KSR Int'l
+Co. v. Teleflex Inc., 550 U.S. 398, 127 S.Ct. 1727,
+1741, 167 L.Ed.2d 705 (2007). Accordingly, under
+KSR, it remains necessary to identify some reason
+that would have led a chemist to modify a known
+compound in a particular manner to establish prima
+facie obviousness of a new claimed compound.
+Takeda Chem. Indus., Ltd. v. Alphapharm Pty.,
+Ltd., 492 F.3d 1350, 1357 (Fed.Cir.2007).
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 9
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+[10] If a patent challenger makes a prima facie
+showing of obviousness, the owner may rebut based
+on unexpected results by demonstrating that the
+claimed invention exhibits some superior property
+or advantage that a person of ordinary skill in the
+relevant art would have found surprising or unexpected.
+In re Soni, 54 F.3d 746, 750
+(Fed.Cir.1995). We consider the relevant factors in
+turn.
+III. Identification of a Lead Compound
+[11] An obviousness argument based on structural
+similarity between claimed and prior art compounds
+clearly depends on a preliminary finding
+that one of ordinary skill in the art would have selected
+[the prior art compound] as a lead compound.
+Takeda, 492 F.3d at 1359; see also Eisai
+Co. Ltd. v. Dr. Reddy's Labs., Ltd., 533 F.3d 1353,
+1359 (Fed.Cir.2008) (stating that post-KSR, a
+prima facie case of obviousness for a chemical
+compound still, in general, begins with the reasoned
+identification of a lead compound in the prior art).
+Teva argues that the '406 patent identifies 2-pyr
+EHDP as the most promising molecule for the inhibition
+of bone resorption. The trial court disagreed
+and concluded from the evidence that a *995
+person of ordinary skill in the art would not have
+identified 2-pyr EHDP as a lead compound for the
+treatment of osteoporosis.
+We need not reach this question because we
+conclude that even if 2-pyr EHDP was a lead compound,
+the evidence does not establish that it would
+have been obvious to a person of ordinary skill at
+the time of the invention to modify 2-pyr EHDP to
+create risedronate.
+IV. Obviousness of Risedronate in Light of the
+Prior Art
+[12] To decide whether risedronate was obvious
+in light of the prior art, a court must determine
+whether, at the time of invention, a person having
+ordinary skill in the art would have had reason to
+attempt to make the composition known as risedronate
+and a reasonable expectation of success in
+doing so. PharmaStem Therapeutics, Inc. v. Via-
+Cell, Inc., 491 F.3d 1342, 1360 (Fed.Cir.2007).
+The district court concluded that, even if 2-pyr
+EHDP were a lead compound, it would not render
+the '122 patent's claims on risedronate obvious because
+a person having ordinary skill in the art
+would not have had reason to make risedronate
+based on the prior art. The district court's findings
+also support the conclusion that there could have
+been no reasonable expectation as to risedronate's
+success.
+[13] The question of obviousness often turns
+on the structural similarities and differences
+between the claimed compound and the prior art
+compound[ ]. Eisai Co. Ltd. v. Dr. Reddy's Labs.,
+Ltd., 533 F.3d 1353, 1356-57 (Fed.Cir.2008); see
+also Sanofi-Synthelabo v. Apotex, Inc., 550 F.3d
+1075, 1086 (Fed.Cir.2008) (Precedent establishes
+the analytical procedure whereby a close structural
+similarity between a new chemical compound and
+prior art compounds is generally deemed to create a
+prima facie case of obviousness....); In re Mayne,
+104 F.3d 1339, 1343 (Fed.Cir.1997) ( Structural
+relationships often provide the requisite motivation
+to modify known compounds to obtain new compounds.);
+In re Payne, 606 F.2d 303, 313-15
+(CCPA 1979) (discussing the presumption of obviousness
+based on close structural similarity). In this
+case, risedronate and 2-pyr EHDP are positional
+isomers; they each contain the same atoms arranged
+in different ways. In risedronate, the hydroxyethanediphosphonate
+group is connected to the # 3
+carbon of a pyridine ring, while in 2-pyr EHDP, the
+hydroxy-ethane-diphosphonate group is connected
+to the # 2 carbon. Because the nitrogen atom is in a
+different position in the two molecules, they differ
+in three dimensional shape, charge distribution and
+hydrogen bonding properties.
+[14][15][16] To successfully argue that a new
+compound is obvious, the challenger may show
+that the prior art would have suggested making the
+specific molecular modifications necessary to
+achieve the claimed invention. Takeda, 492 F.3d
+at 1356 (quotation marks omitted). In keeping
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 10
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+with the flexible nature of the obviousness inquiry,
+the requisite motivation [to modify] can come from
+any number of sources. Eisai, 533 F.3d at 1357
+(citation omitted). Thus, in addition to structural
+similarity between the compounds, a prima facie
+case of obviousness may be shown by adequate
+support in the prior art for the change in structure.
+In re Grabiak, 769 F.2d 729, 731-32 (Fed.Cir.1985)
+. As we noted in Takeda:
+A known compound may suggest its homolog,
+analog, or isomer because such compounds often
+have similar properties and therefore chemists of
+ordinary skill would ordinarily contemplate making
+them to try to obtain compounds with *996
+improved properties.... [However,] it remains necessary
+to identify some reason that would have
+led a chemist to modify a known compound in a
+particular manner to establish prima facie obviousness
+of a new claimed compound.
+492 F.3d at 1356-57 (citation omitted).
+At trial, P & G's expert witnesses testified that,
+in 1985, a person having ordinary skill in the art
+realized that the properties of bisphosphonates
+could not be anticipated based on their structure.
+Additionally, the trial court relied on contemporaneous
+writings from Herbert Fleisch, the preeminent
+authority on bisphosphonates during the relevant
+time period. Dr. Fleisch wrote in 1984 that every
+compound, while remaining a bisphosphonate, exhibits
+its own physical-chemical, biological and
+therapeutic characteristics, so that each bisphosphonate
+has to be considered on its own. To infer
+from one compound the effects in another is dangerous
+and can be misleading. Herbert Fleisch,
+Chemistry and Mechanisms of Action of Bisphosphonates,
+in Bone Resorption, Metastasis, and Diphosphonates
+33-40 (S. Garattini ed., 1985). In this
+case, P & G synthesized and tested 2-pyr EHDP,
+risedronate (3-pyr EHDP) and 4-pyr EHDP, another
+structural isomer. Confirming the unpredictability
+of bisphosphonates, test results for 4-pyr EHDP revealed
+that it was not active in inhibiting bone resorption
+despite its close relationship with potent
+compounds. In light of the Supreme Court's instruction
+in KSR, the Federal Circuit has stated that,
+[t]o the extent an art is unpredictable, as the chemical
+arts often are, KSR's focus on [ ] identified,
+predictable solutions' may present a difficult hurdle
+because potential solutions are less likely to be
+genuinely predictable. Eisai, 533 F.3d 1353, 1359
+(quoting KSR, 127 S.Ct. at 1742). The district court
+found that Teva failed to clear that hurdle, establishing
+insufficient motivation for a person of ordinary
+skill to synthesize and test risedronate. This
+finding was not clearly erroneous.
+[17] Additionally, there was an insufficient
+showing that a person of ordinary skill in the art
+would have had a reasonable expectation of success
+in synthesizing and testing risedronate. PharmaStem,
+491 F.3d at 1360. In KSR, the Supreme
+Court stated that when an obvious modification
+leads to the anticipated success, the invention is
+likely the product of ordinary skill and is obvious
+under 35 U.S.C.  103. 127 S.Ct. at 1742.
+[O]bviousness cannot be avoided simply by a
+showing of some degree of unpredictability in the
+art so long as there was a reasonable probability of
+success. Pfizer, 480 F.3d at 1364 (citing In re
+Corkill, 771 F.2d 1496, 1500 (Fed.Cir.1985)). Here,
+the district court's findings indicate that there was
+no reasonable expectation in 1985 that risedronate
+would be a successful compound.
+[18][19][20] Cases following KSR have considered
+whether a given molecular modification
+would have been carried out as part of routine testing.
+See, e.g., Takeda, 492 F.3d at 1360 (discussing
+the district court's finding that a modification was
+not known to be beneficial and was not considered
+routine). When a person of ordinary skill is faced
+with a finite number of identified, predictable
+solutions to a problem and pursues the known options
+within his or her technical grasp, the resulting
+discovery is likely the product not of innovation
+but of ordinary skill and common sense. KSR,
+127 S.Ct. at 1742. So too, [g]ranting patent protection
+to advances that would occur in the ordinary
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 11
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+course without real innovation retards progress. Id.
+at 1741. In other cases, though, researchers can
+only vary all parameters or try each of numerous
+possible choices until *997 one possibly arrive[s] at
+a successful result, where the prior art [gives] either
+no indication of which parameters [are] critical or
+no direction as to which of many possible choices is
+likely to be successful. In re O'Farrell, 853 F.2d
+894, 903 (Fed.Cir.1988). In such cases, courts
+should not succumb to hindsight claims of obviousness.
+In re Kubin, 561 F.3d 1351 (Fed.Cir.2009).
+Similarly, patents are not barred just because it was
+obvious to explore a new technology or general
+approach that seemed to be a promising field of experimentation,
+where the prior art gave only general
+guidance as to the particular form of the claimed invention
+or how to achieve it. In re O'Farrell, 853
+F.2d at 903.
+In this case, there is no credible evidence that
+the structural modification was routine. The district
+court found that the appellee's expert was evasive
+on this topic, stating that the witness did not directly
+respond to most questions posed to him about
+whether it would be common for a chemist who develops
+a pyridine compound to conceive of and
+make [2-pyr EHDP, 3-pyr EHDP, and 4-pyr EHDP]
+isomers. Procter & Gamble, 536 F.Supp.2d at 486.
+But evidence of evasion is not necessarily evidence
+that the testimony would otherwise have been favorable.
+The only direct evidence that the structural
+modification was routine was presented by an expert
+witness that the district court judge discredited.
+FN1
+FN1. Appellant's expert testified that if
+someone was aware that [2-pyr EHDP]
+was safe and effective, they would imme
+diately in terms of the drug discovery ef
+fort, make the [3-pyr EHDP]. However,
+the district court concluded that this wit
+ness had no specialized experience in the
+area of bisphosphonates aside from his
+preparation to testify in the litigation.
+Procter & Gamble, 536 F.Supp.2d at 480.
+Additionally, the expert prepared his opinion
+by reviewing drug profiles in the current
+version of the Physician's Desk Reference
+instead of drug profiles from the relevant
+time, causing his opinions to be
+marred by hindsight. Id. at 495.
+Accordingly, we conclude that the district court
+did not clearly err in finding that Teva had not established
+a prima facie case of obviousness as to
+the challenged claims of the '122 patent.
+V. Unexpected Results
+The district court found that, even if Teva
+could establish a prima facie case of obviousness, P
+& G had introduced sufficient evidence of unexpected
+results to rebut such a showing. Such evidence
+included test data showing that the claimed composition[
+] possess[es] unexpectedly improved
+properties or properties that the prior art does not
+have. In re Dillon, 919 F.2d 688, 692-93
+(Fed.Cir.1990). Because Teva did not establish a
+prima facie case of obviousness, P & G need not
+rely on this evidence to defend the '122 patent.
+Nonetheless, we note that P & G's witnesses
+consistently testified that the properties of risedronate
+were not expected. For example, Dr. Benedict
+testified that he and other researchers did not predict
+the potency of risedronate. Ms. McOsker testified
+that she was very surprised by the low dose
+at which risedronate was effective. Dr. Miller stated
+that the superior properties of risedronate were unexpected
+and could not have been predicted. In a
+test to determine the lowest dose at which these
+compounds caused toxic reactions, risedronate outperformed
+2-pyr EHDP by a substantial margin.
+Risedronate showed no observable toxic effect at a
+dose of 0.75 mg P/kg/day, while 2-pyr EHDP's no
+observable effect level was only 0.25 mg P/
+kg/day. In another test involving live animals, 2-pyr
+EHDP was lethal at a dose of 1.0 mg P/kg/day
+while risedronate was *998 not. Ultimately, the district
+court weighed the evidence and evaluated the
+credibility of the witnesses in concluding that P &
+G had introduced sufficient evidence of unexpected
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 12
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+results to rebut any finding of obviousness.
+VI. Secondary Considerations of Non-
+Obviousness
+[21][22][23] Secondary considerations of non-
+obviousness include the commercial success of the
+invention at issue and its satisfaction of a long-felt
+need. B.F. Goodrich Co. v. Aircraft Braking Sys.
+Corp., 72 F.3d 1577, 1582 (Fed.Cir.1996). The district
+court found that secondary considerations supported
+a finding of non-obviousness. When present,
+such factors may often be the most probative and
+cogent evidence [of non-obviousness] in the record.
+Stratoflex, Inc. v. Aeroquip Corp., 713 F.2d
+1530, 1538 (Fed.Cir.1983).
+The district court found that risedronate, marketed
+as Actonel, has been an undisputed commercial
+success and satisfied a long-felt unmet need.
+FN2
+This conclusion was based on the testimony of
+Dr. Daniel C. Smith, who stated that risedronate experienced
+favorable growth and had amassed $2.7
+billion in aggregate domestic sales. The district
+court based its finding of a long-felt unmet need on
+the fact that, in the mid-1980s, osteoporosis was recognized
+as a serious disease and existing treatments
+were inadequate. However, because the competing
+drug alendronate was available before risedronate,
+Teva contends that risedronate could not
+have satisfied any unmet need. Teva argues that the
+long-felt need must be unmet at the time the invention
+becomes available on the market, when it can
+actually satisfy that need. To support this argument,
+Teva cites Monarch Knitting Mach. Corp. v. Sulzer
+Morat GmbH, 139 F.3d 877 (Fed.Cir.1998). In fact,
+Monarch rejects a similar argument partly because
+the competing inventions were not actually produced
+until after the claimed invention's filing date.
+Id. at 884. Here, alendronate was not produced until
+ten years after the filing of the '122 patent. Under
+Monarch, we look to the filing date of the challenged
+invention to assess the presence of a long-
+felt and unmet need. Accordingly, it was not clear
+error for the district court to conclude that risedronate
+met such a need and that secondary considera
+tions supported a finding of non-obviousness.
+FN2. The court rightly gave little weight to
+risedronate's commercial success because
+the prior art '406 patent was also assigned
+to P & G. As of December 6, 1985, the filing
+date of the '122 patent, 2-pyr EHDP
+could be found only in a pending application
+for the '406 patent, which was not
+available to the public. See Merck & Co.,
+Inc. v. Teva Pharma. USA, Inc., 395 F.3d
+1364, 1377 (Fed.Cir.2005) (holding that
+commercial success is not significantly
+probative of non-obviousness where others
+are barred from acting on the prior art).
+VII. Whether the '406 Patent is Prior Art
+[24] As an alternative to its position that risedronate
+was not obvious, P & G argues that the '406
+patent should not be considered prior art with respect
+to the '122 patent because risedronate was
+first synthesized by P & G before the '406 patent
+was filed. At trial, Dr. Benedict, one of the inventors
+named in the '122 patent, testified that he synthesized
+risedronate in May 1985. P & G submitted
+a portion of Dr. Benedict's laboratory notebook
+which contains a May 3, 1985 entry detailing the
+structure of risedronate and the procedure for its
+synthesis, but this entry was unwitnessed and was
+not corroborated by any other evidence.
+*999 [25] It is well established that when a
+party seeks to prove conception via the oral testimony
+of a putative inventor, the party must proffer
+evidence corroborating that testimony. Shu-Hui
+Chen v. Bouchard, 347 F.3d 1299, 1309
+(Fed.Cir.2003). The inventor must provide independent
+corroborating evidence in addition to his
+own statements and documents. Hahn v. Wong,
+892 F.2d 1028, 1032 (Fed.Cir.1989). Because P &
+G did not provide adequate corroborating evidence
+of an earlier invention date for risedronate, the district
+court correctly concluded that the '406 patent
+qualifies as prior art for purposes of this inquiry.
+VIII. Obviousness-Type Double Patenting
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 13
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+(Cite as: 566 F.3d 989)
+[26][27][28] In addition to its obviousness defense,
+Teva also asserted that the '122 patent was
+invalid for double patenting. The double patenting
+doctrine is designed to prevent a patent owner from
+extending his exclusive rights to an invention
+through claims in a later-filed patent that are not
+patentably distinct from claims in the earlier filed
+patent. Geneva Pharm., Inc. v. GlaxoSmithKline
+PLC, 349 F.3d 1373, 1378 (Fed.Cir.2003) In general,
+the obviousness analysis applies to double patenting,
+except for three distinctions. First, statutory
+obviousness compares claimed subject matter to the
+prior art, while non-statutory double patenting compares
+claims in an earlier patent to claims in a later
+patent or application. Id. at 1377 n. 1. Second,
+double patenting does not require inquiry into a
+motivation to modify the prior art. Id. Finally,
+double patenting does not require inquiry into objective
+criteria suggesting non-obviousness. Id.
+Having concluded that risedronate was not obvious
+under 35 U.S.C.  103, we similarly conclude
+that the '122 patent is not invalid for obviousness-
+type double patenting. Additionally, we agree with
+the district court that the claims of the '122 patent
+are distinct from the claims of the '406 patent.
+Comparing the claims of the '122 patent to those of
+the '406 patent, we note that, while claims 4 and 16
+of the '122 patent explicitly claim the risedronate
+compound, the '406 patent claims an intermittent
+dosing regimen for the treatment of osteoporosis
+and claims no new compounds. Accordingly, Teva
+failed to present clear and convincing evidence of
+overlap between the claims of the two patents to invalidate
+the '122 patent based on obviousness-type
+double patenting.
+III. CONCLUSION
+For the foregoing reasons, we affirm.
+AFFIRMED
+C.A.Fed. (Del.),2009.
+Procter & Gamble Co. v. Teva Pharmaceuticals
+USA, Inc.
+566 F.3d 989, 90 U.S.P.Q.2d 1947
+END OF DOCUMENT
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+FOR EDUCATIONAL USE ONLY Page 1
+United States Court of Appeals,
+Federal Circuit.
+TAKEDA PHARMACEUTICAL CO., LTD.,
+Plaintiff-Appellee,
+v.
+John J. DOLL, Acting Under Secretary of Commerce
+for Intellectual Property and Acting Director,
+United States Patent and Trademark Office, Defendant-
+Appellant.
+No. 2008-1131.
+April 10, 2009.
+Background: Patent assignee filed suit challenging
+Patent and Trademark Office (PTO) Board of Patent
+Appeals and Interferences' double patenting rejection
+of patent covering process to make cephem
+compounds. The United States District Court for
+the District of Columbia, Thomas F. Hogan, Senior
+Judge, 511 F.Supp.2d 81, granted assignee summary
+judgment. PTO appealed.
+Holdings: The Court of Appeals, Rader, Circuit
+Judge, held that:
+(1) in matter of first impression, later developments
+in art informing patentably distinct determination
+for double patenting must predate secondary application,
+and
+(2) fact issue as to whether product and later-
+developed processes were patentably distinct precluded
+summary judgment.
+Vacated and remanded.
+Schall, Circuit Judge, filed opinion concurring
+in part and dissenting in part.
+West Headnotes
+[1] Federal Courts 170B 766
+170B Federal Courts
+170BVIII Courts of Appeals
+170BVIII(K) Scope, Standards, and Extent
+170BVIII(K)1 In General
+170Bk763 Extent of Review Dependent
+on Nature of Decision Appealed from
+170Bk766 k. Summary Judgment.
+Most Cited Cases
+Court of Appeals reviews a grant of summary
+judgment without deference.
+[2] Federal Civil Procedure 170A 2470
+170A Federal Civil Procedure
+170AXVII Judgment
+170AXVII(C) Summary Judgment
+170AXVII(C)1 In General
+170Ak2465 Matters Affecting Right to
+Judgment
+170Ak2470 k. Absence of Genuine
+Issue of Fact in General. Most Cited Cases
+Summary judgment is appropriate if the record
+discloses no genuine issues of material fact.
+Fed.Rules Civ.Proc.Rule 56, 28 U.S.C.A.
+[3] Federal Civil Procedure 170A 2470.1
+170A Federal Civil Procedure
+170AXVII Judgment
+170AXVII(C) Summary Judgment
+170AXVII(C)1 In General
+170Ak2465 Matters Affecting Right to
+Judgment
+170Ak2470.1 k. Materiality and
+Genuineness of Fact Issue. Most Cited Cases
+On summary judgment motion, a material
+fact is one that might affect the outcome of the suit
+under the governing law; an issue is genuine if
+the evidence is such that a reasonable factfinder
+could return a verdict for the nonmoving party.
+Fed.Rules Civ.Proc.Rule 56, 28 U.S.C.A.
+[4] Patents 291 113(6)
+291 Patents
+291IV Applications and Proceedings Thereon
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 2
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+291k113 Appeals from Decisions of Commissioner
+of Patents
+291k113(6) k. Review on Appeal in General.
+Most Cited Cases
+Court of Appeals reviews factual findings of
+the Board of Patent Appeals and Interferences for
+substantial evidence.
+[5] Patents 291 120
+291 Patents
+291V Requisites and Validity of Letters Patent
+291k120 k. Patents for Same Invention. Most
+Cited Cases
+Generally, double patenting prevents a patentee
+from receiving two patents and extending the
+term of exclusivity for a single invention. 35
+U.S.C.A.  101.
+[6] Patents 291 120
+291 Patents
+291V Requisites and Validity of Letters Patent
+291k120 k. Patents for Same Invention. Most
+Cited Cases
+Non-statutory, in other words,
+obviousness-type double patenting is a judicially
+created doctrine designed to foreclose claims in
+separate applications or patents that do not recite
+the same invention, but nonetheless claim inventions
+so alike that granting both exclusive rights
+would effectively extend the life of patent protection.
+[7] Patents 291 120
+291 Patents
+291V Requisites and Validity of Letters Patent
+291k120 k. Patents for Same Invention. Most
+Cited Cases
+The double patenting doctrine bars an applicant
+from obtaining separate patents with separate
+terms for both a product and process for making
+that product, unless the product and process are patentably
+distinct. 35 U.S.C.A.  101.
+[8] Patents 291 120
+291 Patents
+291V Requisites and Validity of Letters Patent
+291k120 k. Patents for Same Invention. Most
+Cited Cases
+Under the double patenting doctrine, when filing
+the secondary patent application, the applicant
+essentially avers that the product and process are
+patentably distinct, and thus, the relevant time
+frame for determining whether a product and process
+are patentably distinct is at the filing date of
+the secondary application so that later developments
+in the art informing the patentably distinct
+determination must predate the secondary application.
+35 U.S.C.A.  101.
+[9] Patents 291 130
+291 Patents
+291VI Term
+291k130 k. Date. Most Cited Cases
+Patent terms are triggered by the filing date,
+not the grant date.
+[10] Patents 291 289(2.1)
+291 Patents
+291XII Infringement
+291XII(C) Suits in Equity
+291k289 Time to Sue
+291k289(2) Laches
+291k289(2.1) k. In General. Most
+Cited Cases
+The prosecution laches doctrine may render a
+patent unenforceable when it has issued only after
+an unreasonable and unexplained delay in prosecution.
+[11] Patents 291 323.2(3)
+291 Patents
+291XII Infringement
+291XII(C) Suits in Equity
+291k323 Final Judgment or Decree
+291k323.2 Summary Judgment
+291k323.2(3) k. Particular Cases.
+Most Cited Cases
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 3
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+Genuine issue of material fact remained as to
+whether patent assignee's cephem compound and
+later-developed processes were patentably distinct,
+thus precluding summary judgment in suit challenging
+double patenting rejection.
+Patents 291 328(2)
+291 Patents
+291XIII Decisions on the Validity, Construction,
+and Infringement of Particular Patents
+291k328 Patents Enumerated
+291k328(2) k. Original Utility. Most
+Cited Cases
+4,098,888, 4,298,606, 5,583,216, 6,552,186,
+7,071,329. Cited.
+*1373 Harold C. Wegner, Foley & Lardner LLP.,
+of Washington, DC, argued for plaintiff-appellee.
+With him on the brief were Stephen B. Maebius,
+Leon Radomsky, and C. Edward Polk, Jr.
+Sarang Vijay Damle, Attorney, Commercial Litigation
+Branch, Civil Division, United States Department
+of Justice, of Washington, DC, argued for defendant-
+appellant. With him on the brief was Scott
+R. McIntosh, Attorney. Of counsel on the brief was
+William G. Jenks, Associate Solicitor, Office of the
+Solicitor, United States Patent and Trademark Office,
+of Arlington, VA. Of counsel were Raymond
+T. Chen, Solicitor, and Shannon M. Hansen, Associate
+Solicitor.
+Before RADER, SCHALL, and MOORE, Circuit
+Judges.
+Opinion by the court filed by Circuit Judge RADER
+. Opinion concurring-in-part and dissenting-in-part
+filed by Circuit Judge SCHALL.
+RADER, Circuit Judge.
+The United States District Court for the District
+of Columbia held that later developments in the art
+may inform the patentably distinct determination
+for double patenting. Double patenting doctrines
+and case law permit this court to agree in part, but
+only to the extent that the subsequent developments
+predate the secondary application that triggers a
+double patenting rejection. Because genuine issues
+of fact cloud the date of availability of materially
+distinct processes, as well as the viability of those
+processes, this court vacates and remands.
+I.
+Takeda Pharmaceutical Co., Ltd. (Takeda)
+filed a patent application disclosing certain cephem
+compounds and the process for making those compounds
+in Japan on December 19, 1974. Takeda
+filed later applications in the United Kingdom on
+June 9, 1975, and in the United States on December
+19, 1975. Takeda developed these new cephem
+compounds through an acylation process, introducing
+a new acyl group (RC=O) to an amino group
+(-NR).
+3
+Takeda obtained a number of patents claiming
+these cephem compounds through a series of continuations,
+continuations-in-part, and divisional applications,
+including *1374 the compound patents
+that issued as U.S. Patent No. 4,098,888 (the '888
+product patent) (application filed Dec. 19, 1975)
+and its divisional, U.S. Patent No. 4,298,606 (the
+'606 product patent) (application filed Aug. 28,
+1979). This court refers to the December 19, 1975
+application as the primary application. Takeda
+filed these applications before June 8, 1995, making
+them subject to the seventeen year patent term regime.
+See 35 U.S.C.  154(c). In other words, the
+patent terms on these inventions began on their
+grant date, not on their filing date.
+On January 8, 1990, Takeda filed its secondary
+application covering the process for making the
+cephem compounds claimed in the '888 and '606
+product patents-sixteen years after the 1974 priority
+date, and more than fourteen years after the filing
+of the '888 product patent application. The process
+patent issued as U.S. Patent No. 5,583,216 (the '216
+process patent) on December 10, 1996, claiming the
+sole process known and disclosed in the Japanese
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 4
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+priority patent application. The '216 process patent
+led to the double patenting issue in this appeal.
+In 1998, the United States Patent and Trademark
+Office (PTO) received two anonymous requests
+for reexamination of the '216 process patent.
+These requests asserted that the '216 process patent
+was invalid for obviousness-type double patenting
+in view of Takeda's prior patents, as well as
+other prior art. During reexamination, Takeda relied
+upon the declaration of Dr. Wuest disclosing an alternative
+process (displacement process) for making
+the cephem compounds claimed in the '216 patent.
+Not persuaded by the Wuest declaration, the examiner
+rejected the '216 process patent claims as patentably
+indistinct over the '606 product patent
+claims. Takeda appealed the rejection to the Board
+of Patent Appeals and Interferences (the Board).
+The Board dismissed Dr. Wuest's declaration as
+speculative and upheld the examiner's double patenting
+rejection.
+Takeda challenged the Board's decision in the
+District Court for the District of Columbia under 35
+U.S.C.  145. Before the district court, Takeda
+presented new evidence in the form of a declaration
+of Dr. Duggan. In her declaration, Dr. Duggan explained
+that the process disclosed in U.S. Patent
+Nos. 6,552,186 (the Gerlach patent, published on
+Sept. 12, 2002, issued Apr. 22, 2003) and 7,071,329
+(the Monguzzi patent, published June 2, 2005, issued
+July 4, 2006) provides a viable alternative,
+non-infringing process for making the certain cephem
+compounds claimed in the '606 product patent.
+For purposes of cross-motions for summary
+judgment, the parties stipulated that Method B of
+the Duggan declaration described a materially distinct
+alternative process. Therefore, before the district
+court, the parties disputed whether the alternative
+process-Method B, developed after the date of
+invention-could defeat the double patenting rejection.
+The district court concluded that subsequent
+developments in the art [are relevant to] determin
+ing whether alternative processes exist when
+weighing patentable distinctions for double patenting.
+Takeda Pharm. Co. v. Dudas, 511 F.Supp.2d
+81, 91 (D.D.C.2007). Relying on Dr. Duggan's disclosure
+of Method B (published in the Gerlach and
+Monguzi patents in 2002 and 2005, respectively)
+the district court found that the product and process
+are patentably distinct and overturned the double
+patenting rejection. Id. at 92. The district court
+therefore granted Takeda's motion for summary
+judgment that it was entitled to a reexamination
+certificate, confirming its right to the '216 patent.
+At the same time, the court denied the PTO's motion
+for summary judgment. The PTO *1375 timely
+filed a notice of appeal with this court.
+II.
+[1][2][3][4] This court reviews a grant of summary
+judgment without deference. Ethicon Endo-
+Surgery, Inc. v. U.S. Surgical Corp., 149 F.3d 1309,
+1315 (Fed.Cir.1998). Summary judgment is appropriate
+if the record discloses no genuine issues of
+material fact. Anderson v. Liberty Lobby, Inc., 477
+U.S. 242, 247-48, 106 S.Ct. 2505, 91 L.Ed.2d 202
+(1986). A material fact is one that might affect the
+outcome of the suit under the governing law; an issue
+is genuine if the evidence is such that a reasonable
+[factfinder] could return a verdict for the
+nonmoving party. Id. at 248, 106 S.Ct. 2505. This
+court reviews the Board's factual findings for
+substantial evidence. Mazzari v. Rogan, 323 F.3d
+1000, 1005 (Fed.Cir.2003). However, this court reviews
+the ultimate legal conclusion regarding
+double patenting without deference. In re Goodman,
+11 F.3d 1046, 1050 (Fed.Cir.1993).
+A.
+[5][6] Double patenting generally prevents a
+patentee from receiving two patents and extending
+the term of exclusivity for a single invention. See
+Perricone v. Medicis Pharm. Corp., 432 F.3d 1368,
+1372 (Fed.Cir.2005). The proscription against
+double patenting takes two forms: statutory and
+non-statutory. Id. Statutory, or same invention,
+double patenting finds its origin in the statutory
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 5
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+grant of a patent for any new and useful invention.
+35 U.S.C.  101; Perricone, 432 F.3d at
+1372-73. Non-statutory, or obviousness-type,
+double patenting is a judicially created doctrine designed
+to foreclose claims in separate applications
+or patents that do not recite the same invention,
+but nonetheless claim inventions so alike that granting
+both exclusive rights would effectively extend
+the life of patent protection. Perricone, 432 F.3d
+at 1373.
+[7] In other words, the double patenting doctrine
+is designed to prevent unjustified timewise
+extension of the right to exclude. In re Van
+Ornum, 686 F.2d 937, 943-44 (CCPA 1982). For
+instance, the doctrine bars an applicant from obtaining
+separate patents with separate terms for both a
+product and process for making that product, unless
+the product and process are patentably distinct.
+See In re Taylor, 53 C.C.P.A. 1187, 360 F.2d 232,
+234 (1966); In re Cady, 22 C.C.P.A. 1190, 77 F.2d
+106, 109 (1935) (instructing that double patenting
+is not sustainable when the product can be fabricated
+by processes other than that secured by the issued
+process patent) (quotation marks omitted).
+The PTO's Manual of Patent Examining Procedure
+(MPEP) explains that a product and its process are
+patentably distinct if the product as claimed can be
+made by another materially different process.
+MPEP  806.05.
+The parties agree that product and process
+claims are patentably distinct if multiple processes
+for creating a product exist at the time of the invention.
+See, e.g., In re Cady, 77 F.2d at 109 (finding
+that the process of manufacturing roofing material
+was patentably distinct from roofing composition
+when appellant's product as defined in the appealed
+claims may be produced by processes other
+than the processes patented).
+The novel legal question in this case asks if
+later-developed alternative processes are relevant in
+the product-process patentably distinct inquiry.
+The PTO contends that the date of invention, in this
+case December 19, 1974, governs the relevance of
+products and processes in the double patenting context.
+Thus, the PTO submits that the date of invention
+governs the timing of double patenting analyses
+*1376 because other issues relating to patentability
+are judged from the date of invention. For
+example, the patentability requirements set forth in
+112, 102, and 103 are judged as of the date of
+invention or filing. See 35 U.S.C.  112, 102, 103.
+The PTO does not cite statutory or case support for
+the date of invention approach other than analogizing
+to these other patentability requirements. In
+the alternative, the PTO posits that alternative processes
+must at least appear before issuance of the
+primary patent application.
+Takeda, on the other hand, argues that the
+PTO's approach is too limited. In its view, processes
+developed after the date of invention deserve
+a role in the double patenting calculus. Acknowledging
+that this court has not directly addressed
+this legal question before, Takeda relies on a district
+court case for the proposition that a court can
+look to processes developed after the date of invention
+for product-process double patenting situations.
+See Phillips Petroleum Co. v. U.S. Steel
+Corp., 604 F.Supp. 555 (D.Del.1985) (Phillips ).
+In Phillips, the district court considered a process
+developed in 1954, one year after the date of
+invention. Id. at 567. In a footnote, the district court
+noted that courts have considered developments in
+the art arising after the date of invention when
+resolving double patenting issues. In those cases,
+however, the parties did not object to the court's
+consideration of post-date inventive developments.
+Id. at 568. The district court further noted the
+Board's discussion in Ex Parte Hogan, No. 436-63,
+(Pat. & Tr. Office Bd.App. Mar. 30, 1981), a nonprecedential
+case from the Board of Patent Appeals.
+In Ex Parte Hogan, the Board considered a later-
+disclosed process in a double patenting challenge.
+See slip op. at 5. Agreeing that later-developed processes
+are relevant to the patentably distinct inquiry,
+the Phillips Court decline[d] to conduct the
+double patenting analysis with blinders so as to
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 6
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+avoid recognition or discourage disclosure of advances
+in process technology as a means of making
+a product patent. Phillips, 604 F.Supp. at 568.
+This court affirmed Phillips on appeal. U.S. Steel
+Corp. v. Phillips Petroleum Co., 865 F.2d 1247
+(Fed.Cir.1989) (Phillips II ).
+In this case, Takeda argues that this court's affirmance
+of Phillips rejected the PTO's exact date
+of invention position. But on closer look, the only
+mention of double patenting in Phillips II is in the
+penultimate paragraph:
+III. Remaining Arguments
+We have carefully considered defendants' arguments
+regarding: (1) double patenting .... We find
+none persuasive of error in the district court's disposition
+of any of those issues and none of sufficient
+import to require discussion here of that disposition.
+IV. Conclusion
+The judgment of the district court is affirmed in
+all respects.
+Id. at 1253 (emphasis added). While Phillips II
+affirmed Phillips in all respects, this court did
+not address the double patenting argument. Thus,
+Phillips II did not present a rule or reasoning that
+decides the case before this court in this appeal.
+See Nat'l Cable Television Ass'n, Inc. v. Am.
+Cinema Editors, Inc., 937 F.2d 1572, 1581
+(Fed.Cir.1991) (When an issue ... is ignored in a
+decision, such decision is not precedent to be followed
+in a subsequent case in which the issue
+arises.).
+The PTO argues that here, the product and process
+were not patentably distinct as of the date of
+invention, so the double patenting doctrine should
+bar consideration of later-filed process claims.
+However, adopting the PTO's approach of the date
+of invention is only appealing at *1377 first
+glance. It appears to provide a bright-line test that
+conforms to the perspective used in other patentability
+determinations. But as Takeda points out in its
+brief, the date of invention raises other substant
+ive questions such as: is the filing date the presumptive
+date of invention? If so, what is the date
+of invention, the domestic or foreign filing date? If
+foreign, must a claim have been perfected under
+119(e) with the filing of a certified copy of the
+original foreign application and an English language
+translation? What if the priority application
+contains support for some but not all of the patent
+claims? Would some of the claims be judged as of
+different cutoff dates? What if the inventor swears
+behind a reference?
+In contrast, the district court's doing away
+with blinders approach allows an applicant to
+come forward with any evidence that its product
+and process are patentably distinct, even if the alternative
+process is developed decades after the filing
+dates of the product and process applications.
+The approach provides the patentee with the best of
+both worlds: the applicant can use the filing date as
+a shield, enjoying the earlier priority date in order
+to avoid prior art, and rely on later-developed alternative
+processes as a sword to defeat double patenting
+challenges. Here, the primary application,
+directed to certain cephem compounds, was filed in
+the United States on December 19, 1975. The secondary
+application, directed to the process for making
+these cephem compounds, was filed in 1990.
+Yet the district court relied on patent applications
+published several decades later to show a patentable
+distinction between the product and process.
+[8][9][10] This court is not persuaded by either
+approach. Neither approach addresses the policies
+underlying the double patenting doctrine. The secondary
+application (in this case, the process application
+of January 8, 1990) actually triggers the potential
+of an unjustified extension of patent term.
+When filing the secondary application, the applicant
+essentially avers that the product and process
+are patentably distinct. Thus, the relevant time
+frame for determining whether a product and process
+are patentably distinct should be at the filing
+date of the secondary application. In this case,
+Takeda filed the '216 process patent application on
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 7
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+January 8, 1990. This approach allows an applicant
+to rely on some later-developed methods to show
+that the product and process are patentably distinct,
+even though the alternative processes for
+making that product may not have been known at
+the filing date of the primary application. This rule
+gives the applicant the benefit of future developments
+in the art. At the same time, however, it prevents
+the inequitable situation that arises when an
+applicant attempts to rely on developments occurring
+decades after the filing date of the secondary
+FN1
+application.
+FN1. The dissent's hypothetical is a
+stretch. It assumes nineteen years of copendency.
+Today, patent terms are
+triggered by the filing date, not the grant
+date. In other words, both the product and
+process patents will expire around the
+same time (although there may be slight
+variance due to patent term adjustment).
+As such, an applicant is less likely to maintain
+co-pendency for nineteen years.
+Moreover, this court's prosecution laches
+doctrine may render a patent unenforceable
+when it has issued only after an unreasonable
+and unexplained delay in prosecution.
+Symbol Techs., Inc. v. Lemelson
+Med., Educ. & Research Found., 422 F.3d
+1378, 1384-85 (Fed.Cir.2005).
+This approach should encourage the swift development
+of materially distinct, alternative processes.
+It is also consistent with the district court's
+opinion in Phillips, 604 F.Supp. at 567 (considering
+an alternative process developed one year after the
+filing date of the primary application, and *1378
+prior to the filing of the secondary application).
+[11] Therefore, in this case, the applicant can
+rely on subsequent developments in the art up to
+January 8, 1990, the filing date of the secondary application,
+in order to show a patentable distinction
+between the cephem compounds claimed in the '606
+product patent and the process for making those
+compounds claimed in the '216 process patent. In
+that regard, Takeda indicates that it disclosed an
+unclaimed process (which it terms the
+Displacement Process or the Unelected Method)
+in the '888 product patent application. The
+PTO, however, has continually dispute[d] the viability
+of the ... [D]isplacement [P]rocess. Additionally,
+Takeda asserts that Method B, disclosed in
+the Gerlach and Monguzzi patents and described in
+the Duggan Declaration, was disclosed as early as
+1979. On this point, the PTO states that it di[d] not
+dispute the technical merits of Dr. Duggan's declaration
+only for purposes of cross-motions for summary
+judgment. Further, the PTO stated in its motion
+for summary judgment that [t]he only
+alternative processes that Takeda (through Dr.
+Duggan's declaration) has identified to this Court
+are the processes described in ... the Gerlach patent[
+] and in ... the Monguzzi patent[ ]. Today,
+this court holds that the district court may not rely
+on the Gerlach and Monguzzi patents. But questions
+of material fact remain as to (1) the viability
+of the Displacement Process, and (2) the disclosure
+date of Method B. On remand, the district court
+should determine whether these processes were disclosed
+before January 8, 1990, the date of filing of
+the '216 process patent.
+III.
+Because genuine issues of material fact exist
+with respect to whether the cephem compound and
+later-developed processes are patentably distinct,
+this court vacates and remands for further factual
+development.
+VACATED AND REMANDED.
+COSTS
+Each party shall bear its own costs.
+SCHALL, Circuit Judge, concurring-in-part and
+dissenting-in-part.
+I agree with the majority that, in arguing
+against the claim of obviousness-type double patenting
+in the reexamination proceeding, Takeda
+should not be able to rely on the disclosures of the
+Gerlach and Monguzzi patents. However, I respect
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 8
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+fully part company with the majority in its conclusion
+that Takeda should be able to rely on developments
+in the art up to January 8, 1990, the date of
+the filing of the '216 process patent application. In
+my view, in arguing against the claim of obvious-
+ness-type double patenting, Takeda should not be
+able to rely on disclosures after the December 19,
+FN1
+1974 invention date. I believe that tying the inquiry
+to the invention date is most commensurate
+with patent law as a whole and the policy goals relating
+to obviousness-type double patenting.
+FN1. The PTO and Takeda used this date
+as the presumed date of invention in
+briefing and argument, so I will use it here
+as well.
+First, it seems to me that the date of invention
+is most appropriate because it comports with current
+patentability doctrines, and, as I explain later, I
+view product-process obviousness-type double patenting
+as a patentability doctrine. See, e.g., 35
+U.S.C.  102(a) (A person shall be entitled to a
+patent unless ... the invention was known or used
+by others in this *1379 country, or patented or described
+in a printed publication in this or a foreign
+country, before the invention thereof by the applicant
+for patent.  (emphasis added)); 35 U.S.C.
+102(e) (A person shall be entitled to a patent unless
+... the invention was described in (1) an application
+for patent, published under section 122(b), by
+another filed in the United States before the invention
+by the applicant for patent or (2) a patent granted
+on an application for patent by another filed in
+the United States before the invention by the applicant
+for patent .... (emphases added)); Apotex Corp.
+v. Merck & Co., 507 F.3d 1357, 1359
+(Fed.Cir.2007) ( 35 U.S.C.  102(g) provides that
+an applicant is not entitled to a patent if  before
+such person's invention thereof, the invention was
+made in this country by another, who had not abandoned,
+suppressed, or concealed it.  (quoting 35
+U.S.C.  102(g)) (emphasis added)); In re Translogic
+Tech., Inc., 504 F.3d 1249, 1259 (Fed.Cir.2007)
+(An invention is unpatentable as obvious if the dif
+ferences between the patented subject matter and
+the prior art would have been obvious at the time of
+invention to a person of ordinary skill in the art.
+(emphasis added)); cf. Phillips v. AWH Corp., 415
+F.3d 1303, 1313 (Fed.Cir.2005) (en banc) (We
+have made clear ... that the ordinary and customary
+meaning of a claim term is the meaning that the
+term would have to a person of ordinary skill in the
+art in question at the time of the invention, i.e., as
+of the effective filing date of the patent application.
+(emphasis added)); Plant Genetic Sys., N.V.
+v. DeKalb Genetics Corp., 315 F.3d 1335, 1339
+(Fed.Cir.2003) (Enablement is determined as of
+the effective filing date of the patent.  (emphasis
+added)).
+Second, we have previously emphasized the invention
+date with respect to obviousness-type
+double patenting:
+The public should ... be able to act on the assumption
+that upon the expiration of the patent it
+will be free to use not only the invention claimed
+in the patent but also modifications or variants
+which would have been obvious to those of ordinary
+skill in the art at the time the invention
+was made, taking into account the skill of the art
+and prior art other than the invention claimed in
+the issued patent.
+In re Longi, 759 F.2d 887, 893 (Fed.Cir.1985)
+(emphases from original omitted, emphasis added).
+Pertinent to this case, I view product-process obviousness-
+type double patenting as a patentability
+doctrine. At the date of invention, if only one process
+exists to make the product, the two are
+substantially co-extensive. See PTO's Br. 17. To
+allow two patents to issue at that time would essentially
+run afoul of 35 U.S.C.  101, as the applicant
+would be receiving two patents on one invention.
+FN2
+See, e.g., In re Vogel, 57 C.C.P.A. 920, 422
+F.2d 438, 441 (1970); In re Ockert, 44 C.C.P.A.
+1024, 245 F.2d 467, 469 (1957).
+FN2. Although this view is admittedly
+overly simplistic, tracing the product-pro
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 9
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+cess double patenting doctrine back to its
+101 origins serves to bolster the connection
+between the doctrine and other questions
+of patentability.
+In a difficult case, the majority settles upon
+what I would characterize as a not-unreasonable attempt
+at compromise. Rejecting the approaches of
+both Takeda and the government, it holds that the
+relevant time frame for determining whether a
+product and process are patentably distinct should
+be at the filing date of the ['216 process patent application].
+It thus concludes, in the setting of a
+pre-1995 filing, that art developed after a product/
+process invention date, but before a subsequent process
+patent application filing*1380 date, can render
+a previously unpatentable process patentable.
+Through its approach, the majority concludes it is
+preventing the patentee from having the best of
+both worlds, whereby the applicant can use the filing
+date as a shield, enjoying the earlier priority
+date in order to avoid prior art, and rely on later-
+developed alternative processes as a sword to defeat
+double patenting. Maj. op. at 1376-77. However,
+while the majority's approach is more restrictive
+than that urged by Takeda, it still allows Takeda to
+exclude sixteen years of prior art for invalidity purposes
+(such as 35 U.S.C.  102, 103), while simultaneously
+taking advantage of that art to overcome
+a double-patenting rejection. This is what troubles
+me about the majority's understandable desire to
+find a middle ground in this case. It allows Takeda
+to have it both ways. In addition, as far as I can tell,
+there is no other doctrine or rule that allows unpatentable
+material to spring back into patentability
+based on later developments in the field.
+As correctly stated by the majority,  [t]he
+fundamental reason for the rule [of obviousness-
+type double patenting] is to prevent unjustified
+timewise extension of the right to exclude granted
+by a patent no matter how the extension is brought
+about.  Eli Lilly & Co. v. Barr Labs., Inc., 251
+F.3d 955, 967-68 (Fed.Cir.2001) (quoting In re Van
+Ornum, 686 F.2d 937, 943-44 (CCPA 1982))
+(alterations in original). The majority's approach, it
+seems to me, allows for such an extension. The
+product and the unpatentable process should both
+have entered into the public domain in 1998, when
+the '606 patent expired. At that point, members of
+the public should have been able to make the cephem
+compounds without paying royalties to Takeda
+or to another company. However, Takeda's rights in
+the '216 process patent will not expire until
+2013-almost forty years after its process was first
+disclosed. In my view, this is an unjustified time-
+wise extension of the right to exclude. Although
+the cephem compounds are in the public domain,
+no currently unpatented method exists for making
+them.
+I am also concerned that the majority's approach
+could, in certain cases, result in the upsetting
+of reasonable expectations as to what is in the
+public domain. For example, let us assume we are
+in the seventeen-year regime, as we are in this case.
+Takeda is granted a product patent in year one. At
+that time, only one process exists (Process A). That
+process is disclosed, but not claimed, in the patent.
+In year eighteen, the product patent expires, putting
+Process A fully into the public domain. In addition,
+during the seventeen-year patent term, no other process
+has been developed, and thus Process A remains
+unpatentable separately because it is coextensive
+with the product patent. See In re Taylor, 53
+C.C.P.A. 1187, 360 F.2d 232, 234 (1966); In re
+Cady, 22 C.C.P.A. 1190, 77 F.2d 106, 109 (1935)
+([D]ouble patenting is not sustainable when the
+product can be fabricated by processes other than
+that secured by the issued process patent.). Then,
+in year nineteen, a second process, called Process
+B, is invented for making the patented product. The
+initial inventor then files a patent application on
+Process A (assume proper co-pendency with the
+product patent), triggering double-patenting concerns.
+According to the majority's approach, this
+second process would cause Process A to become
+patentable, despite the fact that Process A and the
+resulting product were in the public domain for one
+year. It seems to me such a result runs counter to
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 10
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+(Cite as: 561 F.3d 1372)
+public expectation and patent law's public notice
+function.
+Finally, the majority sets forth various questions
+which it says counsel toward its approach:
+[A]dopting the PTO's approach of the date of invention
+is only appealing at *1381 first glance.
+It appears to provide a bright-line test that conforms
+to the perspective used in other patentability
+determinations. But as Takeda points out in its
+brief, the date of invention raises other substantive
+questions such as: is the filing date the
+presumptive date of invention? If so, what is
+the date of invention, the domestic or foreign filing
+date? If foreign, must a claim have been
+perfected under  119(e) with the filing of a
+certified copy of the original foreign application
+and an English language translation? What if the
+priority application contains support for some but
+not all of the patent claims? Would some of the
+claims be judged as of different cutoff dates?
+What if the inventor swears behind a reference?
+Maj. op. at 1376-77.
+I do not share the majority's concern. I think
+we must keep in mind these kinds of questions are
+faced regularly and have been manageable. For example,
+interference proceedings provide a parallel
+to double-patenting: a court (or the Board of Patent
+Appeals and Interferences) must look to the date of
+invention while evaluating two competing applications.
+That additional questions may have to be addressed
+if the approach urged by the government is
+adopted does not mean that we should ignore that
+approach if we feel it is correct.
+It may be that the new patent term will cure
+many of the concerns enumerated in this opinion.
+However, that does not mean that we should ignore
+those concerns. Obviousness-type double patenting
+is a judicially created doctrine, and using the date
+of invention best comports with our previously
+stated policy goals underlying the doctrine. For the
+foregoing reasons, I respectfully dissent from the
+majority's decision allowing Takeda to use developments
+in the art that post-date the date of invention
+in arguing against the obviousness-type double patenting
+rejection.
+C.A.Fed. (Dist.Col.),2009.
+Takeda Pharmaceutical Co., Ltd. v. Doll
+561 F.3d 1372, 90 U.S.P.Q.2d 1496
+

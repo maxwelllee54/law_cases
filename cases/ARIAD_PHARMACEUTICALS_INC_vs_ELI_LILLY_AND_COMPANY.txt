@@ -1,0 +1,1456 @@
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+FOR EDUCATIONAL USE ONLY Page 1
+United States Court of Appeals,
+Federal Circuit.
+ARIAD PHARMACEUTICALS, INC., Massachusetts
+Institute of Technology, The Whitehead Institute
+for Biomedical Research, and The President
+and Fellows of Harvard College, Plaintiffs-Appellees,
+v.
+ELI LILLY AND COMPANY, Defendant-Appellant.
+No. 2008-1248.
+April 3, 2009.
+Background: Owners of patent claiming methods
+comprising the single step of reducing Nuclear
+Factor Kappa B (NF-KB) activity in eukaryotic
+cells brought infringement action against competitor.
+After a jury found infringement, and concluded
+that the asserted claims were not invalid for anticipation,
+lack of enablement, or lack of written description,
+the United States District Court for the
+District of Massachusetts, Rya W. Zobel, J., 529
+F.Supp.2d 106, denied competitor's motion for
+judgment as a matter of law (JMOL), and a final
+judgment was entered, 2007 WL 2712087. Competitor
+appealed.
+Holdings: The Court of Appeals, Moore, Circuit
+Judge, held that:
+(1) patent owners failed to provide adequate written
+description of the claims;
+(2) fact that figure containing errors was left in application
+was insufficient to satisfy intent element
+of inequitable conduct claim; and
+(3) district court did not clearly err by finding no
+intent to deceive the Patent and Trademark Office
+(PTO) on part of co-inventor.
+Affirmed in part and reversed in part.
+Linn, Circuit Judge, filed a concurring opinion.
+West Headnotes
+[1] Federal Civil Procedure 170A 2142.1
+170A Federal Civil Procedure
+170AXV Trial
+170AXV(F) Taking Case or Question from
+Jury
+170AXV(F)2 Questions for Jury
+170Ak2142 Weight and Sufficiency of
+Evidence
+170Ak2142.1 k. In general. Most
+Cited Cases
+Federal Civil Procedure 170A 2608.1
+170A Federal Civil Procedure
+170AXVII Judgment
+170AXVII(E) Notwithstanding Verdict
+170Ak2608 Evidence
+170Ak2608.1 k. In general. Most Cited
+Cases
+Judgment as a matter of law (JMOL) is warranted
+where there is no legally sufficient evidentiary
+basis for a reasonable jury to find for the non-
+moving party. Fed.Rules Civ.Proc.Rule 50(a)(1), 28
+U.S.C.A.
+[2] Patents 291 112.5
+291 Patents
+291IV Applications and Proceedings Thereon
+291k112 Conclusiveness and Effect of Decisions
+of Patent Office
+291k112.5 k. Sufficiency of evidence to
+offset effect of decision in general. Most Cited
+Cases
+A patent is presumed to be valid, and this presumption
+only can be overcome by clear and convincing
+evidence to the contrary. 35 U.S.C.A.  282
+.
+[3] Patents 291 99
+291 Patents
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 2
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+The written description requirement for a patent
+specification serves both to satisfy the invent-
+or's obligation to disclose the technologic knowledge
+upon which the patent is based, and to
+demonstrate that the patentee was in possession of
+the invention that is claimed. 35 U.S.C.A.  112.
+[4] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+The written description requirement for a patent
+specification serves a teaching function, as a
+quid pro quo in which the public is given meaningful
+disclosure in exchange for being excluded from
+practicing the invention for a limited period of
+time. 35 U.S.C.A.  112.
+[5] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+To satisfy the written description requirement
+for a patent specification, an applicant does not
+have to utilize any particular form of disclosure to
+describe the subject matter claimed, but the description
+must clearly allow persons of ordinary skill in
+the art to recognize that he or she invented what is
+claimed; in other words, the applicant must convey
+with reasonable clarity to those skilled in the art
+that, as of the filing date sought, he or she was in
+possession of the invention, and demonstrate that
+by disclosure in the specification of the patent. 35
+U.S.C.A.  112.
+[6] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+To satisfy the written description requirement
+for a patent specification, the disclosure describing
+the subject matter claimed need not recite the
+claimed invention in haec verba, but it must do
+more than merely disclose that which would render
+the claimed invention obvious. 35 U.S.C.A.  112.
+[7] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+Whether the written description requirement
+for a patent specification is satisfied is a fact-based
+inquiry that will depend on the nature of the
+claimed invention and the knowledge of one skilled
+in the art at the time an invention is made and a patent
+application is filed. 35 U.S.C.A.  112.
+[8] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+The written description requirement for a patent
+specification is not satisfied by the appearance
+of mere indistinct words in a specification or a
+claim, even an original claim; a description of what
+a material does, rather than of what it is, usually
+does not suffice. 35 U.S.C.A.  112.
+[9] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+Where a patent specification provides only
+constructive examples in lieu of working examples,
+it must still describe the claimed subject matter in
+terms that establish that the applicant was in possession
+of the claimed invention, including all of
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 3
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+the elements and limitations, in order to meet the
+written description requirement. 35 U.S.C.A.  112.
+[10] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+What is adequate to satisfy the written description
+requirement of a patent specification depends
+upon the context of the claimed invention. 35
+U.S.C.A.  112.
+[11] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+Factors used to evaluate the adequacy of the
+disclosure supporting generic claims to biological
+subject matter, in satisfying the written description
+requirement in a patent specification, include the
+existing knowledge in the particular field, the extent
+and content of the prior art, the maturity of the
+science or technology, and the predictability of the
+aspect at issue. 35 U.S.C.A.  112.
+[12] Patents 291 99
+291 Patents
+291IV Applications and Proceedings Thereon
+291k99 k. Description of invention in specification.
+Most Cited Cases
+Owners of patent claiming methods comprising
+the single step of reducing Nuclear Factor Kappa B
+(NF-KB) activity in eukaryotic cells failed to
+provide adequate written description of the claims
+by hypothesizing three classes of molecules potentially
+capable of reducing NF-KB activity, and
+therefore the claims were invalid, where the patent
+disclosed no working or even prophetic examples
+of the molecules prophesized to be capable of reducing
+NF-KB activity. 35 U.S.C.A.  112.
+[13] Patents 291 314(5)
+291 Patents
+291XII Infringement
+291XII(B) Actions
+291k314 Hearing
+291k314(5) k. Questions of law or
+fact. Most Cited Cases
+Patents 291 324.55(3.1)
+291 Patents
+291XII Infringement
+291XII(B) Actions
+291k324 Appeal
+291k324.55 Questions of Fact, Verdicts,
+and Findings
+291k324.55(3) Issues of Validity
+291k324.55(3.1) k. In general.
+Most Cited Cases
+A determination that a patent is invalid for failure
+to meet the written description requirement is a
+question of fact, and an appellate court reviews a
+jury's determinations of facts relating to compliance
+with the written description requirement for substantial
+evidence. 35 U.S.C.A.  112.
+[14] Patents 291 324.54
+291 Patents
+291XII Infringement
+291XII(B) Actions
+291k324 Appeal
+291k324.54 k. Presumptions and discretion
+of lower court. Most Cited Cases
+Patents 291 324.55(2)
+291 Patents
+291XII Infringement
+291XII(B) Actions
+291k324 Appeal
+291k324.55 Questions of Fact, Verdicts,
+and Findings
+291k324.55(2) k. Clearly erroneous
+findings. Most Cited Cases
+An appellate court reviews a district court's
+findings on the issues of materiality and intent re
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 4
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+lating to inequitable conduct in a patent infringement
+action for clear error; the ultimate decision regarding
+inequitable conduct is reviewed for abuse
+of discretion.
+[15] Patents 291 97.8
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+291k97.8 k. In general. Most Cited Cases
+(Formerly 291k97)
+Patents 291 97.13
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+291k97.13 k. Evidence. Most Cited Cases
+(Formerly 291k97)
+To successfully prove inequitable conduct in a
+patent infringement action, an alleged infringer
+must present evidence that the applicant (1) made
+an affirmative misrepresentation of material fact,
+failed to disclose material information, or submitted
+false material information, and (2) intended to deceive
+the Patent and Trademark Office (PTO); further,
+at least a threshold level of each element must
+be proven by clear and convincing evidence.
+[16] Patents 291 97.14
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+291k97.14 k. Determination; summary
+judgment. Most Cited Cases
+(Formerly 291k97)
+If a threshold level of intent to deceive or materiality
+is not established by clear and convincing
+evidence, as required to prove inequitable conduct
+in a patent infringement action, a district court does
+not have any discretion to exercise and cannot hold
+the patent unenforceable regardless of the relative
+equities or how it might balance them.
+[17] Patents 291 97.10
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+291k97.10 k. Intent to deceive in general.
+Most Cited Cases
+(Formerly 291k97)
+Fact that figure containing two errors was left
+in one patent application that issued as patent
+claiming methods comprising the single step of reducing
+Nuclear Factor Kappa B (NF-KB) activity
+in eukaryotic cells was insufficient to satisfy intent
+element of inequitable conduct claim, even though
+the errors were material; it appeared the parties involved
+endeavored to correct the figure throughout
+the family of applications, suggesting an honest but
+imperfect attempt to correct mistakes.
+[18] Patents 291 97.13
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+291k97.13 k. Evidence. Most Cited Cases
+(Formerly 291k97)
+Because direct evidence of deceptive intent is
+rarely available, such intent can be inferred from
+indirect and circumstantial evidence for purposes of
+establishing inequitable conduct in a patent infringement
+action; such evidence, however, must
+still be clear and convincing, and inferences drawn
+from lesser evidence cannot satisfy the deceptive
+intent requirement.
+[19] Patents 291 97.10
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 5
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+291k97.10 k. Intent to deceive in general.
+Most Cited Cases
+(Formerly 291k97)
+District court did not clearly err by finding no
+intent to deceive the Patent and Trademark Office
+(PTO) on the part of co-inventor of patent claiming
+methods comprising the single step of reducing
+Nuclear Factor Kappa B (NF-KB) activity in eukaryotic
+cells in failing to submit scientific papers he
+authored that discussed the impact of various compounds
+on NF-KB activity, so as to establish inequitable
+conduct, absent evidence that co-inventor
+had any knowledge of how statements in the papers
+could have impacted the patent application, or that
+co-inventor had any knowledge of the historical
+uses of the prior art compounds.
+[20] Patents 291 97.10
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+291k97.10 k. Intent to deceive in general.
+Most Cited Cases
+(Formerly 291k97)
+Materiality and intent are different requirements
+in establishing inequitable conduct in a patent
+infringement action, and absent a finding of deceptive
+intent, no amount of materiality gives the
+district court discretion to find inequitable conduct.
+[21] Patents 291 97.8
+291 Patents
+291IV Applications and Proceedings Thereon
+291k97.7 Unenforceability of Patent; Inequitable
+Conduct or Fraud on Office
+291k97.8 k. In general. Most Cited Cases
+(Formerly 291k97)
+Courts must be vigilant in not permitting the
+defense of inequitable conduct to be applied too
+lightly in a patent infringement action.
+Patents 291 328(2)
+291 Patents
+291XIII Decisions on the Validity, Construction,
+and Infringement of Particular Patents
+291k328 Patents Enumerated
+291k328(2) k. Original utility. Most Cited
+Cases
+6,410,516. Invalid.
+*1368 Stephen S. Rabinowitz, Fried Frank Harris
+Shriver & Jacobson LLP, of New *1369 York, NY,
+argued for plaintiffs-appellees. With him on the
+brief were James W. Dabney, John F. Duffy,
+Mitchell Epner, and Randy C. Eisensmith. Of counsel
+on the brief were Leora Ben-Ami, Matthew Mc-
+Farlane, Christopher T. Jagoe, Sr., Howard S. Suh,
+and Patricia A. Carson, Kay Scholer LLP, of New
+York, NY.
+Charles E. Lipsey, Finnegan, Henderson, Farabow,
+Garrett & Dunner L.L.P., of Reston, VA, argued for
+defendant-appellant. With him on the brief were
+Robert D. Bajefsky, David S. Forman, Howard W.
+Levine, Laura P. Masurovsky and Jennifer A. Johnson
+of Washington, DC. Of counsel was Sanya
+Sukduang. Of counsel on the brief were Paul R.
+Cantrell, Gilbert T. Voy, and Alexander Wilson, Eli
+Lilly and Company, of Indianapolis, IN.
+Before LINN, PROST, and MOORE, Circuit
+Judges.
+MOORE, Circuit Judge.
+Plaintiffs-Appellees Ariad Pharmaceuticals,
+Inc., Massachusetts Institute of Technology, the
+Whitehead Institute for Biomedical Research, and
+the Presidents and Fellows of Harvard College
+(collectively, Ariad) sued Defendant-Appellant Eli
+Lilly and Company (Lilly) in the United States District
+Court for the District of Massachusetts for infringement
+of claims 80, 95, 144, and 145 (the asserted
+claims) of U.S. Patent No. 6,410,516 (the
+'516 patent). A jury found infringement of claims
+80 and 95 with respect to Lilly's drug Evista, and
+claims 144 and 145 with respect to Lilly's drug Xi
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 6
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+gris. The jury also concluded that the asserted
+claims were not invalid for anticipation, lack of enablement,
+or lack of written description.
+Both at the close of Ariad's case-in-chief and
+again after the jury verdict, Lilly moved for judgment
+as a matter of law (JMOL) that the asserted
+claims were not infringed and were invalid for anticipation,
+lack of enablement, or lack of written description.
+Following a separate bench trial, the district
+court ruled that the asserted claims were directed
+to patentable subject matter and that the '516
+patent was not unenforceable due to inequitable
+conduct or prosecution laches. Ariad Pharms., Inc.
+v. Eli Lilly & Co., 529 F.Supp.2d 106
+(D.Mass.2007). Lilly appeals several rulings, including
+the court's denial of its JMOL motion and
+the court's ruling on inequitable conduct. For the
+reasons set forth below, we reverse-in-part and affirm-
+in-part.
+BACKGROUND
+The technology in this case involves gene regulation.
+Transcription factors are molecules found in
+cells that regulate the extent to which genes are expressed.
+There are hundreds of different transcription
+factors that perform in concert with other molecules
+in the cell to control cellular behavior. Unsurprisingly,
+this network of cellular signals is fertile
+ground for the development of therapeutic compounds.
+In the mid-1980s, the inventors of the ' 516
+patent discovered an important transcription factor
+that they named NF-KB. NF-KB is akin to an all-
+purpose cellular paramedic. When the cell receives
+a harmful extracellular influence, such as lipopolysaccha
+rides produced by bacteria, NF-KB is activated.
+Once activated, NF-KB travels to the nucleus
+of the cell and fulfills its role as a transcription
+factor, inducing the expression of numerous genes
+and causing the cell to produce the corresponding
+proteins. These proteins, for example certain cytokines,
+help the cell survive the extracellular influence,
+but they can be harmful in excess-not unlike
+how a fever is thought to combat infection but can
+cause harm if left unchecked. Once the offending
+extracellular influence diminishes, for example, following
+the administration of antibiotics for a bacterial
+infection,*1370 NF-KB activity decreases
+and the cell returns to its original state.
+The inventors of the '516 patent further realized
+that if NF-KB activity could be reduced artificially,
+it could ameliorate the harmful symptoms of diseases
+that trigger NF-KB activation-not unlike how
+aspirin can reduce a fever without actually treating
+the underlying infection. The asserted claims, rewritten
+to include the claims from which they depend,
+are as follows:
+80. [A method for modifying effects of external
+influences on a eukaryotic cell, which external
+influences induce NF-KB-mediated intracellular
+signaling, the method comprising altering NF-KB
+activity in the cells such that NF-KB-mediated
+effects of external influences are modified,
+wherein NF-KB activity in the cell is reduced]
+wherein reducing NF-KB activity comprises reducing
+binding of NF-KB to NF-KB recognition
+sites on genes which are transcriptionally regulated
+by NF-KB.
+95. [A method for reducing, in eukaryotic cells,
+the level of expression of genes which are activated
+by extracellular influences which induce NF-
+KB-mediated intracellular signaling, the method
+comprising reducing NF-KB activity in the cells
+such that expression of said genes is reduced],
+carried out on human cells.
+144. [A method for reducing bacterial lipopolysaccharide-
+induced expression of cytokines in
+mammalian cells, which method comprises reducing
+NF-KB activity in the cells so as to reduce
+bacterial lipopolysaccharide-induced expression
+of said cytokines in the cells] wherein reducing
+NF-KB activity comprises reducing binding of
+NF-KB to NF-KB recognition sites on genes
+which are transcriptionally regulated by NF-KB.
+144. [A method for reducing bacterial lipopolysaccharide-
+induced expression of cytokines in
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 7
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+mammalian cells, which method comprises reducing
+NF-KB activity in the cells so as to reduce
+bacterial lipopolysaccharide-induced expression
+of said cytokines in the cells], carried out on human
+cells.
+Importantly, the district court determined that
+reducing NF-KB activity means decreasing the
+function of NF-KB to act as an intracellular messenger
+that regulates transcription of particular
+genes, in response to certain stimuli. Ariad
+Pharms., Inc. v. Eli Lilly & Co., No. 02-cv-11280,
+2004 WL 413262, at *1, 2004 U.S. Dist. LEXIS
+3170, at *3 (D.Mass. Mar. 3, 2004). Neither party
+appealed the district court's claim construction.
+Ariad filed its complaint on the day the '516
+patent issued, June 25, 2002. During the proceedings,
+the district court denied Lilly's combined motion
+to dismiss and motion for summary judgment.
+Ariad Pharms., Inc. v. Eli Lilly & Co., No.
+02-cv-11280, 2003 WL 21087115, 2003 U.S. Dist.
+LEXIS 8030 (D.Mass. May 12, 2003). On April 4,
+2005, Lilly filed a request for reexamination of the '
+516 patent. The district court denied Lilly's motion
+for a stay. Ariad Pharms., Inc. v. Eli Lilly & Co.,
+No. 02-cv-11280, 2005 WL 1342721, 2005 U.S.
+Dist. LEXIS 10941 (D. Mass. June 6, 2005). The
+district court also denied Lilly's renewed motion to
+stay made on January 17, 2006. There was a fourteen-
+day jury trial in April, 2006. At the close of
+Ariad's case-in-chief, Lilly moved for JMOL that
+the asserted claims were not infringed and were invalid
+for anticipation, lack of enablement, or lack of
+written description. The district court denied the
+JMOL motion without opinion.
+On April 28, 2006, the jury rendered a special
+verdict finding infringement of claims 80 and 95
+with respect to Evista and claims 144 and 145 with
+respect to Xigris. The jury also found that the asserted
+claims were not invalid for anticipation,*1371
+lack of enablement, or lack of written description.
+The court denied Lilly's renewed motion for JMOL
+or, in the alternative, a new trial, again without
+opinion. In August 2006, the court conducted a
+four-day bench trial on three further defenses
+offered by Lilly: unpatentable subject matter, inequitable
+conduct, and prosecution laches. The district
+court ruled in favor of Ariad on all three issues.
+Ariad Pharms., Inc., 529 F.Supp.2d 106.
+Lilly timely appeals all of these rulings except
+the district court's ruling that prosecution laches did
+not render the '516 patent unenforceable. We have
+jurisdiction pursuant to 28 U.S.C.  1295(a)(1).
+DISCUSSION
+I.
+[1][2] We review the denial of Lilly's motion
+for JMOL without deference. CytoLogix Corp. v.
+Ventana Med. Sys., Inc., 424 F.3d 1168, 1172
+(Fed.Cir.2005) (applying First Circuit law). Under
+First Circuit law, JMOL is warranted pursuant to
+Fed.R.Civ.P. 50(a)(1) where there is no legally
+sufficient evidentiary basis for a reasonable jury to
+find for the non-moving party. Guilloty Perez v.
+Pierluisi, 339 F.3d 43, 50 (1st Cir.2003)
+(quotations omitted). A patent is presumed to be
+valid, and this presumption only can be overcome
+by clear and convincing evidence to the contrary.
+Enzo Biochem, Inc. v. Gen-Probe Inc., 424 F.3d
+1276, 1281 (Fed.Cir.2005) (citing WMS Gaming
+Inc. v. Int'l Game Tech., 184 F.3d 1339, 1355
+(Fed.Cir.1999)); see 35 U.S.C.  282.
+[3][4] Section 112 of Title 35 provides, in relevant
+part, that:
+The specification shall contain a written description
+of the invention, and of the manner and process
+of making and using it, in such full, clear,
+concise, and exact terms as to enable any person
+skilled in the art to which it pertains, or with
+which it is most nearly connected, to make and
+use the same, and shall set forth the best mode
+contemplated by the inventor of carrying out his
+invention.
+35 U.S.C.  112,  1 (emphasis added). The
+emphasized portion of  112, the written description
+requirement, serves both to satisfy the invent
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 8
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+or's obligation to disclose the technologic knowledge
+upon which the patent is based, and to
+demonstrate that the patentee was in possession of
+the invention that is claimed. Capon v. Eshhar,
+418 F.3d 1349, 1357 (Fed.Cir.2005). The requirement
+serves a teaching function, as a quid pro quo
+in which the public is given meaningful disclosure
+in exchange for being excluded from practicing the
+invention for a limited period of time. Univ. of
+Rochester v. G.D. Searle & Co., 358 F.3d 916, 922
+(Fed.Cir.2004) (quoting Enzo Biochem, Inc. v. Gen-
+Probe Inc., 323 F.3d 956, 970 (Fed.Cir.2002)); see
+O'Reilly v. Morse, 56 U.S. (15 How.) 62, 121, 14
+L.Ed. 601 (1853) (explaining that a patentee can
+lawfully claim only what he has invented and described,
+and if he claims more his patent is void);
+Reiffin v. Microsoft Corp., 214 F.3d 1342, 1345-46
+(Fed.Cir.2000) (The purpose of [the written description
+requirement] is to ensure that the scope of
+the right to exclude ... does not overreach the scope
+of the inventor's contribution to the field of art as
+described in the patent specification.).
+[5][6] To satisfy the written description requirement,
+the applicant does not have to utilize
+any particular form of disclosure to describe the
+subject matter claimed, but the description must
+clearly allow persons of ordinary skill in the art to
+recognize that he or she invented what is claimed.
+Carnegie Mellon Univ. v. Hoffmann-La Roche
+Inc., 541 F.3d 1115, 1122 (Fed.Cir.2008) (quoting
+In re Alton, 76 F.3d 1168, 1172 (Fed.Cir.1996)).
+In other words, the applicant must convey with
+reasonable clarity to those skilled in *1372 the art
+that, as of the filing date sought, he or she was in
+possession of the invention, and demonstrate that
+by disclosure in the specification of the patent. Id.
+(quoting Vas-Cath Inc. v. Mahurkar, 935 F.2d
+1555, 1563-64 (Fed.Cir.1991)). Such disclosure
+need not recite the claimed invention in haec verba,
+but it must do more than merely disclose that which
+would render the claimed invention obvious.
+Rochester, 358 F.3d at 923; Regents of the Univ. of
+Cal. v. Eli Lilly & Co., 119 F.3d 1559, 1566-67
+(Fed.Cir.1997); see also PowerOasis, Inc. v. T-
+Mobile USA, Inc., 522 F.3d 1299, 1306-07
+(Fed.Cir.2008) (explaining that  112,  1 requires
+that the written description actually or inherently
+disclose the claim element).
+[7][8] Whether the written description requirement
+is satisfied is a fact-based inquiry that
+will depend on the nature of the claimed invention
+and the knowledge of one skilled in the art at the
+time an invention is made and a patent application
+is filed. Carnegie Mellon, 541 F.3d at 1122 (citing
+Enzo, 323 F.3d at 963). The written description requirement
+is not satisfied by [t]he appearance of
+mere indistinct words in a specification or a claim,
+even an original claim.... A description of what a
+material does, rather than of what it is, usually does
+not suffice. Enzo, 323 F.3d at 968 (citing Eli Lilly,
+119 F.3d at 1568); see Rochester, 358 F.3d at 926
+([G]eneralized language may not suffice if it does
+not convey the detailed identity of an invention.).
+[9] The same is true for both process claims
+and composition claims. Rochester, 358 F.3d at 926
+(Regardless whether a compound is claimed per se
+or a method is claimed that entails the use of the
+compound, the inventor cannot lay claim to that
+subject matter unless he can provide a description
+of the compound sufficient to distinguish infringing
+compounds from non-infringing compounds, or infringing
+methods from non-infringing methods.).
+Where the specification provides only constructive
+examples in lieu of working examples, it must still
+describe the claimed subject matter in terms that
+establish that the applicant was in possession of the
+claimed invention, including all of the elements and
+limitations. Id. (citing Hyatt v. Boone, 146 F.3d
+1348, 1353 (Fed.Cir.1998)).
+[10][11] Of course, what is adequate depends
+upon the context of the claimed invention. See Capon,
+418 F.3d at 1358 (The written description requirement
+must be applied in the context of the particular
+invention and state of the knowledge.). We
+have articulated a variety of factors to evaluate the
+adequacy of the disclosure supporting generic
+claims to biological subject matter. Id. at 1359.
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 9
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+These factors include the existing knowledge in
+the particular field, the extent and content of the
+prior art, the maturity of the science or technology,
+[and] the predictability of the aspect at issue. Id.
+Ariad explains that developing the subject matter
+of the '516 patent required years of hard work,
+great skill, and extraordinary creativity-so much so
+that the inventors first needed to discover, give
+names to, and describe previously unknown cellular
+components as a necessary predicate for their inventions.
+Lilly offered the undisputed expert testimony
+of David Latchman that the field of the invention
+was particularly unpredictable. Thus, this
+invention was made in a new and unpredictable
+field where the existing knowledge and prior art
+was scant. See Capon, 418 F.3d at 1359.
+A.
+[12] Ariad claims methods comprising the
+single step of reducing NF-KB activity. Lilly argues
+that the asserted claims are not supported by
+written description because*1373 the specification
+of the '516 patent fails to adequately disclose how
+the claimed reduction of NF-KB activity is
+achieved. The parties agree that the specification of
+the '516 patent hypothesizes three classes of molecules
+potentially capable of reducing NF-KB
+activity: specific inhibitors, dominantly interfering
+molecules, and decoy molecules. Lilly contends
+that this disclosure amounts to little more than a research
+plan, and does not satisfy the patentee's quid
+pro quo as described in Rochester. Ariad responds
+that Lilly's arguments fail as a matter of law because
+Ariad did not actually claim the molecules.
+According to Ariad, because there is no term in the
+asserted claims that corresponds to the molecules, it
+is entitled to claim the methods without describing
+the molecules. Ariad's legal assertion, however, is
+flawed.
+In Rochester, we held very similar method
+claims invalid for lack of written description. Id.
+(holding patent invalid because Rochester did not
+present any evidence that the ordinarily skilled artisan
+would be able to identify any compound based
+on [the specification's] vague functional description);
+see also Fiers v. Revel, 984 F.2d 1164,
+1170-71 (Fed.Cir.1993) (holding a claim to a genus
+of DNA molecules not supported by written description
+of a method for obtaining the molecules);
+cf. Eli Lilly, 119 F.3d at 1567-68 (holding claims to
+a broad genus of genetic material invalid because
+the specification disclosed only one particular species).
+Ariad attempts to categorically distinguish
+Rochester, Fiers, and Eli Lilly, because in those
+cases, the claims explicitly included the non-
+described compositions. For example, in Rochester,
+the method claims recited a broad type of compound
+that we held was inadequately described in
+the specification of the patent:
+1. A method for selectively inhibiting PGHS-2
+activity in a human host, comprising administering
+a non-steroidal compound that selectively inhibits
+activity of the PGHS-2 gene product to a
+human host in need of such treatment.
+Id. at 918 (emphasis added). Ariad's attempt to
+distinguish these cases is unavailing. Regardless of
+whether the asserted claims recite a compound,
+Ariad still must describe some way of performing
+the claimed methods, and Ariad admits that the specification
+suggests only the use of the three classes
+of molecules to achieve NF-KB reduction. Thus, to
+satisfy the written description requirement for the
+asserted claims, the specification must demonstrate
+that Ariad possessed the claimed methods by sufficiently
+disclosing molecules capable of reducing
+NF-KB activity so as to satisfy the inventor's obligation
+to disclose the technologic knowledge upon
+which the patent is based, and to demonstrate that
+the patentee was in possession of the invention that
+is claimed. Capon, 418 F.3d at 1357.
+B.
+[13] Alternatively, Ariad argues that the specification
+of the ' 516 patent and the expert testimony
+of Tom Kadesch provided the jury with substantial
+evidence of adequate written description of
+the claimed methods. A determination that a patent
+is invalid for failure to meet the written descrip
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 10
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+tion requirement of 35 U.S.C.  112,  1 is a question
+of fact, and we review a jury's determinations
+of facts relating to compliance with the written description
+requirement for substantial evidence.
+PIN/NIP, Inc. v. Platte Chem. Co., 304 F.3d 1235,
+1243 (Fed.Cir.2002) (citing Vas-Cath, 935 F.2d at
+1563).
+Much of Ariad's written description evidence,
+however, is legally irrelevant to the question of
+whether the disclosure of the '516 patent conveys to
+those skilled in the art that the inventors were in
+possession of the claimed invention on April 21,
+*1374 1989-the effective filing date of the '516 patent.
+The parties disputed the effective filing date of
+the '516 patent, and in a detailed and well-crafted
+special verdict form, the jury was asked to choose
+between the two possible dates: April 21, 1989 and
+November 13, 1991. The jury chose 1989 and
+neither party appealed that determination. Presumably
+because of uncertainty over the priority date,
+much of Ariad's evidence was actually directed to
+the later date. Because written description is determined
+as of the filing date-April 21, 1989 in this
+case-evidence of what one of ordinary skill in the
+art knew in 1990 or 1991 cannot provide substantial
+evidence to the jury that the asserted claims were
+supported by adequate written description. See Vas-
+Cath, 935 F.2d at 1563-64 (holding that a written
+description analysis occurs as of the filing date
+sought).
+In accordance with Rochester, the '516 patent
+must adequately describe the claimed methods for
+reducing NF-KB activity, including adequate description
+of the molecules that Ariad admits are necessary
+to perform the methods. The specification
+of the '516 patent hypothesizes three classes of molecules
+potentially capable of reducing NF-KB
+activity: specific inhibitors, dominantly interfering
+molecules, and decoy molecules. We review the
+specification's disclosure of each in turn to determine
+whether there is substantial evidence to support
+the jury's verdict that the written description evidenced
+that the inventor possessed the claimed in
+vention.
+Specific inhibitors are molecules that are able
+to block (reduce or eliminate) NF-KB binding to
+DNA in the nucleus. '516 patent col.37 ll.44-45.
+The only example of a specific inhibitor given in
+the specification is I-KB, a naturally occurring molecule
+whose function is to hold NF-KB in an inactive
+state until the cell receives certain external influences.
+Id. at col.37 ll.48-49. Nearly all of Ariad's
+evidence regarding the disclosure of I-KB relies
+upon figure 43. Ariad's expert, Dr. Kadesch, testified
+that figure 43 discloses the sequence of DNA
+that encodes I-KB and relied on this disclosure with
+regard to his opinion that the written description requirement
+was satisfied by disclosure of specific inhibitor
+molecules. See Trial Tr. 53; 57-58; 60;
+78-85, Apr. 27, 2006. But as Ariad admits, figure
+43 was not disclosed until 1991. Because figure 43
+was not in the 1989 application, neither it nor Dr.
+Kadesch's testimony regarding it can offer substantial
+evidence for the jury determination. See Vas-
+Cath, 935 F.2d at 1563-64. The only other testimony
+of Dr. Kadesch with regard to I-KB was that
+it existed in 1989 and that one of ordinary skill
+could through experimentation isolate natural I-KB.
+See Trial Tr. at 62-85. In the context of this invention,
+a vague functional description and an invitation
+for further research does not constitute written
+FN1
+disclosure of a specific inhibitor.See Eli Lilly,
+119 F.3d at 1566 (holding that written description
+requires more than a mere wish or plan for obtaining
+the claimed chemical invention); see also id. at
+1567 ([A] description which renders obvious a
+claimed invention is not sufficient to satisfy the
+written description requirement of that invention.).
+And it certainly does not *1375 constitute written
+disclosure of a method for reducing NF-KB activity
+using I-KB.
+FN1. Moreover, the district court found, in
+the context of its inequitable conduct ruling,
+that figure 43 is both incorrect and incomplete.
+Ariad Pharms., 529 F.Supp.2d at
+123-25 (finding those errors material).
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 11
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+That the inventors of the '516 patent,
+among the most skilled artisans in their
+field in the world at this time, failed to correctly
+disclose the structure of I-B even
+K
+two years after the application was filed is
+a strong sign that one of skill in the art
+could not be expected to provide this
+knowledge in 1989.
+Dominantly interfering molecules are a truncated
+form of the NF-KB molecule. '516 patent
+col.38 l.11. The truncation would retain[ ] the
+DNA binding domain, but lack[ ] the RNA polymerase
+activating domain. Id. at col.38 ll.13-14.
+As such, the dominantly interfering molecule
+would recognize and bind to the NF-KB binding
+site [on nuclear DNA], however, the binding would
+be unproductive. Id. at col.38 ll.15-17. In other
+words, the dominantly interfering molecules would
+block natural NF-KB from inducing the expression
+of its target genes. The specification provides no
+example molecules of this class. Moreover, the specification
+acknowledges that dominantly interfering
+molecules can work only if the DNA binding domain
+and the DNA polymerase domain of NF-KB
+are spatially distinct in the molecule. Id. at col.38
+ll.9-10 (emphasis added). The jury also heard Dr.
+Kadesch's testimony that it is a fair representation
+that the '516 patent itself doesn't disclose in its text
+that the DNA binding domain and the RNA preliminary
+activating domain of NF-KB are, in fact, separable
+or spatially distinct. Considering that the inventors
+of the '516 patent discovered NF-KB, if
+they did not know whether the two domains are distinct,
+one of ordinary skill in the art was at best
+equally ignorant. Perhaps one of ordinary skill
+could discover this information, but this does not
+alter our conclusion that the description of the dominantly
+interfering molecules just represents a
+wish, or arguably a plan for future research. Fiers,
+984 F.2d at 1171; see Eli Lilly, 119 F.3d at 1567
+(rendering obvious is insufficient for written description).
+Nor is it sufficient, as Ariad argues, that
+skilled workers actually practiced this teaching
+soon after the 1989 application was filed. See Vas-
+Cath, 935 F.2d at 1563-64 (holding that a written
+description analysis occurs as of the filing date
+sought).
+Decoy molecules are designed to mimic a region
+of the gene whose expression would normally
+be induced by NF-KB. In this case, NF-KB would
+bind the decoy, and thus, not be available to bind its
+natural target. '516 patent col.37 ll.51-54. Like the
+other two classes of molecules, decoy molecules
+are presented hypothetically, but unlike the other
+two classes of molecules, the specification proposes
+example structures for decoy molecules. Id. at
+col.37 tbl.2. As Dr. Kadesch explained, decoy molecules
+are DNA oligonucleotides, and because the
+specification discloses specific example sequences,
+there is little doubt that the specification adequately
+described the actual molecules to one of ordinary
+skill in the art. Yet this does not answer the question
+of whether the specification adequately describes
+using those molecules to reduce NF-KB
+activity. The full extent of the specification's disclosure
+of a method that reduces NF-KB activity
+using decoy molecules is that NF-KB would bind
+the decoy and thereby, negative regulation can be
+effected. Id. at col.37 ll.50-54. Prophetic examples
+are routinely used in the chemical arts, and they
+certainly can be sufficient to satisfy the written description
+requirement. But this disclosure is not so
+much an example as it is a mere mention of a desired
+outcome. As Dr. Latchman pointed out, there
+is no descriptive link between the table of decoy
+molecules and reducing NF-KB activity.
+Ariad also relies upon [a] 1990 publication in
+evidence [that] reported using decoy molecules to
+reduce NF-KB activity which was discussed by
+Dr. Kadesch. Appellee Br. 25-26. Again, because
+the priority date was determined to be 1989, the
+disclosure in a later publication cannot, as a matter
+of law, establish that the inventor in this case possessed
+using decoy molecules*1376 to reduce NFKB
+when the patent application was filed in 1989.
+Dr. Kadesch's reliance on this evidence as support
+FN2
+for his opinion is likewise erroneous.
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 12
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+FN2. Dr. Kadesch testified that the scientists
+who conducted the decoy molecule
+study published in November 1990 would
+likely have mastered their technique prior
+to the filing of the '516 patent application
+in April 1989. Perhaps so, but this fact is
+not in evidence, and even if it were true,
+one research group does not necessarily
+represent the knowledge of one of ordinary
+skill in the art without further testimony to
+support that contention.
+We reviewed all other portions of Dr. Kadesch's
+testimony that Ariad contends provided the
+jury with substantial evidence relating to each of
+the three classes of molecules, and we deem them
+FN3
+insufficient as a matter of law. Indeed, most of
+the testimony cited by Ariad was irrelevant to the
+question of whether the inventors were in possession
+of the claimed invention as of the 1989 priority
+date. The '516 patent discloses no working or even
+prophetic examples of methods that reduce NF-KB
+activity, and no completed syntheses of any of the
+molecules prophesized to be capable of reducing
+NF-KB activity. The state of the art at the time of
+filing was primitive and uncertain, leaving Ariad
+with an insufficient supply of prior art knowledge
+with which to fill the gaping holes in its disclosure.
+See Capon, 418 F.3d at 1358 (It is well-recognized
+that in the unpredictable fields of science, it is appropriate
+to recognize the variability in the science
+in determining the scope of the coverage to which
+the inventor is entitled.).
+FN3. Dr. Kadesch certainly offered a general
+conclusion that he thought the inventors
+were in possession of the claimed invention
+in 1989. This conclusory testimony,
+as shown infra, is devoid of any factual
+content upon which the jury could
+have relied when considering the specification
+of the '516 patent, and therefore cannot
+constitute substantial evidence. Besides,
+possession of an invention must be
+shown by written description in the patent
+application, and that was not shown here.
+See Rochester, 358 F.3d at 926 (After all,
+it is in the patent specification where the
+written description requirement must be
+met.).
+Whatever thin thread of support a jury might
+find in the decoy-molecule hypothetical simply
+cannot bear the weight of the vast scope of these
+generic claims. See LizardTech, Inc. v. Earth Res.
+Mapping, Inc., 424 F.3d 1336, 1345 (Fed.Cir.2005)
+(holding that [a]fter reading the patent, a person of
+skill in the art would not understand the patentee
+to have invented a generic method where the patent
+only disclosed one embodiment of it); Reiffin, 214
+F.3d at 1345-46 (noting that the scope of the right
+to exclude must not overreach the scope of the inventor's
+contribution to the field of art as described
+in the patent specification); Fiers, 984 F.2d at
+1171 (Claiming all DNA[s] that achieve a result
+without defining what means will do so is not in
+compliance with the description requirement; it is
+an attempt to preempt the future before it has arrived.);
+cf. Carnegie Mellon, 541 F.3d at 1126
+(holding that the narrow description of the E. coli
+polA gene did not adequately support a broad claim
+to the gene from any bacterial source). Here, the
+specification at best describes decoy molecule
+structures and hypothesizes with no accompanying
+description that they could be used to reduce NFKB
+activity. Yet the asserted claims are far broader.
+We therefore conclude that the jury lacked substantial
+evidence for its verdict that the asserted claims
+were supported by adequate written description,
+and thus hold the asserted claims invalid.
+Ariad sought and obtained the broad claims we
+now hold to be invalid. For its own reasons, Ariad
+maintained the breadth of these claims through
+claim construction and into trial. As Judge Rader
+observed, *1377 the situation presented in this case
+should not often occur, because [i]n simple terms,
+a court would properly interpret the claim[s] as limited.
+Univ. of Rochester v. G.D. Searle & Co., 375
+F.3d 1303, 1312 (Fed.Cir.2004) (dissenting from
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 13
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+denial of petition for rehearing en banc). Nonetheless,
+as it stands, Ariad chose to assert claims that
+are broad far beyond the scope of the disclosure
+provided in the specification of the '516 patent. Cf.
+Liebel-Flarsheim Co. v. Medrad, Inc., 481 F.3d
+1371, 1380 (Fed.Cir.2007) (The motto, beware of
+what one asks for, might be applicable here.).
+II.
+[14] We next turn to Lilly's appeal of the district
+court's ruling that Lilly failed to establish the
+affirmative defense of inequitable conduct. We review
+the district court's findings on the issues of
+materiality and intent for clear error. The ultimate
+decision regarding inequitable conduct is reviewed
+for abuse of discretion. Rentrop v. Spectranetics
+Corp., No.2007-1560, 550 F.3d 1112, 1120
+(Fed.Cir. Dec.18, 2008).
+[15] Lilly bears the burden of proving inequitable
+conduct. Ulead Sys., Inc. v. Lex Computer &
+Mgmt. Corp., 351 F.3d 1139, 1146 (Fed.Cir.2003).
+To successfully prove inequitable conduct, Lilly
+must present evidence that the applicant (1) made
+an affirmative misrepresentation of material fact,
+failed to disclose material information, or submitted
+false material information, and (2) intended to deceive
+the [USPTO]. Cargill, Inc. v. Canbra Foods,
+Ltd., 476 F.3d 1359, 1364-65 (Fed.Cir.2007) (citing
+Impax Labs., Inc. v. Aventis Pharms. Inc., 468 F.3d
+1366, 1374 (Fed.Cir.2006)).
+[16] Further, at least a threshold level of each
+element-i.e., both materiality and intent to deceive-
+must be proven by clear and convincing evidence.
+Star Scientific, Inc. v. R.J. Reynolds Tobacco Co.,
+537 F.3d 1357, 1365 (Fed.Cir.2008). If a threshold
+level of intent to deceive or materiality is not established
+by clear and convincing evidence, the district
+court does not have any discretion to exercise and
+cannot hold the patent unenforceable regardless of
+the relative equities or how it might balance them.
+Id. Lilly alleges that two errors gave rise to inequitable
+conduct. On appeal, Ariad does not dispute the
+substance or materiality of the errors. Rather, relying
+on Digital Control, Inc. v. Charles Machine
+Works, Lilly challenges the district court's finding
+that neither error was accompanied by an intent to
+deceive. 437 F.3d 1309, 1313 (Fed.Cir.2006) ([A]
+greater showing of [materiality] allow[s for] a lesser
+showing of [intent].). Unless otherwise noted,
+the facts are taken from the district court's detailed
+opinion. Ariad Pharms., Inc., 529 F.Supp.2d at
+121-36.
+A.
+[17] The first of the two errors underlying
+Lilly's defense of inequitable conduct relates to figure
+43 of the '516 patent. Ariad does not dispute the
+district court's finding that figure 43 is incorrect.
+The patent describes figure 43 as [t]he nucleotide
+sequence of the I-KB- gene and the amino acid sequence
+of I-KB-. '516 patent col.28 ll.16-17. The
+district court found that one of ordinary skill in the
+art would, given the context, infer that the gene in
+figure 43 is that of a mouse or other mammal.
+There are two errors in the figure: the sequence is
+both incomplete and from a chicken as opposed to a
+mouse or other mammalian organism. The district
+court further found that the errors were material because
+during prosecution, Ariad and the examiner
+relied on figure 43 for certain arguments to overcome
+112 rejections. Ariad does not dispute the
+materiality of the errors. According to Lilly, *1378
+the district court clearly erred because Ariad and
+the prosecuting attorneys were aware of the errors
+in figure 43 and purposely concealed them from the
+USPTO at the crowning moment of the prosecution
+of the '516 patent.
+Figure 43 was added to the specification of a
+predecessor application of the '516 patent in 1991.
+Without detailing the full lineage, it is sufficient to
+note that several related applications in the family
+contained figure 43. In 1997, an employee of Ariad,
+Sharon Hausdorff, informed Lisa Warren, an attorney
+with Hamilton, Brooks, Smith & Reynolds,
+P.C., that figure 43 contained errors. Ms. Warren
+succeeded in deleting figure 43 from at least one
+application on file with the USPTO. Around the
+same time, the prosecution files for the family of
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 14
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+applications were transferred to Matthew Vincent at
+Foley, Hoag & Elliot LLP.
+Dr. Vincent delegated the work to Isabelle
+Clauss. Dr. Clauss handled the ministerial actions,
+including, upon learning of the errors from
+Ms. Hausdorff, removing figure 43 from two more
+of the related applications. Although Dr. Vincent
+testified that he was never aware of the errors in
+figure 43 during the pendency of the application
+that led to the '516 patent, Dr. Clauss testified that
+she had discussed the issue regarding figure 43 with
+him. The district court credited Dr. Vincent's testimony
+because Dr. Class was at best, equivocal
+and was uncertain about the timing and substance
+of the conversations. In 1998, Dr. Vincent filed a
+response to an office action regarding the '516 patent
+application. While apparently not referencing
+figure 43, Dr. Vincent made arguments relating to
+112 that would be furthered by figure 43. Dr.
+Clauss also filed a similar response in 1999, arguing
+that the specification of the application disclosed
+I-KBencoding DNA. Although she did not
+reference it explicitly, she could only have been referring
+to the contents of figure 43.
+In 2001, Dr. Vincent moved to Ropes & Gray
+LLP, taking with him all of the related applications.
+Dr. Clauss did not move to Ropes & Gray LLP and
+did no further work on the Ariad patent applications.
+After this, no further corrections were made,
+and the '516 patent issued in 2002 with figure 43 included.
+[18] The district court did not clearly err by
+finding no intent to deceive the USPTO by Ms.
+Hausdorff, Dr. Vincent, or Dr. Clauss. While it is
+true that because direct evidence of deceptive intent
+is rarely available, such intent can be inferred
+from indirect and circumstantial evidence[,] ... such
+evidence must still be clear and convincing, and inferences
+drawn from lesser evidence cannot satisfy
+the deceptive intent requirement. Star Scientific,
+537 F.3d at 1366.
+Dr. Vincent never knew of the errors. Thus, to
+the extent that he may have relied on figure 43 in
+his communications with the USPTO, this is insufficient
+evidence of intent to deceive. Ms. Hausdorff
+knew, but there is no other evidence that Ms. Hausdorff
+had any intent to conceal the errors from the
+USPTO. To the contrary, she disclosed the errors to
+her attorneys. She was justified in her expectation
+that her attorneys would determine the legal significance
+of the errors and take appropriate actions.
+Dr. Clauss also knew of the errors, but the district
+court credited Dr. Clauss's testimony that she was
+following Foley, Hoag & Elliot LLP's standard
+practice to make the correction only after the PTO
+indicated the claims were allowable in any particular
+related application. That knowledge of the errors
+was lost when Dr. Vincent moved to Ropes & Gray
+LLP does not rise to the level of intent to deceive.
+See *1379Kingsdown Med. Consultants, Ltd. v.
+Hollister Inc., 863 F.2d 867, 876 (Fed.Cir.1988) (en
+banc) (holding even gross negligence insufficient to
+prove intent to deceive). While Dr. Clauss's 1999
+office action response could be the seed of a finding
+of intent, more evidence of deliberate concealment
+would be needed and this fact alone does not
+constitute clear error in the district court fact
+finding.
+Lilly argues that the fact that figure 43 was left
+in the one application that issued as the '516 patent
+is sufficiently suspicious that it should contribute to
+a finding of intent. We disagree. It appears that the
+parties involved endeavored to correct figure 43
+throughout the family of applications. These actions
+do not signal a nefarious plot to leave figure 43 in
+the one application that would lead to the patent
+now asserted; rather, they signal an honest but imperfect
+attempt to correct mistakes. Certainly, deceptive
+intent is not the single most reasonable inference
+able to be drawn from the evidence. Star
+Scientific, 537 F.3d at 1366. There is simply no
+evidence of what Lilly contends is purposeful concealment
+no matter how material the errors might
+be.
+B.
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 15
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+[19] The second of the two errors underlying
+Lilly's defense of inequitable conduct relates to the
+failure to submit four references to the USPTO during
+the prosecution of the '516 patent application.
+The references were not prior art per se; they were
+scientific papers published after the filing date of
+the '516 patent application and authored or coauthored
+by one of the patent's co-inventors, Albert
+Baldwin. The references discuss the impact of various
+compounds on NF-B activity. According to
+K
+Lilly, the references are relevant to the issue of
+whether certain claims are inherently anticipated by
+these prior art compounds. Ariad does not dispute
+the district court's finding that the omissions were
+material. Lilly argues that Ariad intentionally concealed
+the references, pointing to testimony by Dr.
+Baldwin that he knew the references were relevant
+to the subject matter of the '516 patent application.
+Lilly does not claim that any other person had the
+requisite intent.
+There is no doubt that Dr. Baldwin was aware
+of the references, because he authored them. He
+testified as follows:
+Q. Did you at any time consider disclosing your
+findings regarding Resveratrol in those experiments
+to the United States Patent Office?
+A. I mean I-I considered it, but I-again, I feel like
+that one would inundate the patent office with
+every report of-of things that affect NF-KB one
+way or the other. It's-you can do a search on NFKB
+and it's endless.
+Q. Why is it you considered disclosing your findings
+regarding the effect of Resveratrol in your
+experiments to the United States Patent Office?
+A. Well, we signed-we signed this document that
+says that was our obligation to do so at some
+point.
+Dr. Baldwin-who is a scientist and not a patent
+lawyer-was apparently aware of his duty to disclose,
+and also aware that it could be inappropriate
+to submit material that might inundate the
+USPTO. His reasons for not submitting the references
+are plausible, even if ultimately legally incorrect,
+and Lilly failed to show that deceptive intent
+was the better explanation for Dr. Baldwin's behavior.
+Lilly failed to show that Dr. Baldwin had any
+knowledge of how the statements about the effect
+of prior art compounds on NF-KB activity made in
+the references could impact the '516 patent application.
+Lilly did not show that Dr. Baldwin appreciated
+the inherent anticipation theory to which the
+references allegedly pertained. And even if Lilly
+had shown this knowledge, it did not show that Dr.
+Baldwin had any knowledge of the historical uses
+of the prior art compounds. *1380 Accordingly, we
+conclude that the district court did not clearly err by
+finding no intent to deceive the USPTO on the part
+of Dr. Baldwin.
+C.
+[20][21] Lilly cannot prove deceptive intent by
+clear and convincing evidence simply by relying on
+the materiality of the errors. Rather, there must be
+clear and convincing evidence of culpable conduct.
+Halliburton Co. v. Schlumberger Tech. Corp.,
+925 F.2d 1435, 1443 (Fed.Cir.1991) (citing Consol.
+Aluminum Corp. v. Foseco Int'l Ltd., 910 F.2d 804,
+809 (Fed.Cir.1990)). Digital Control's statement
+that a greater showing of [materiality] allow[s for]
+a lesser showing of [intent] is not to the contrary.
+437 F.3d at 1313. Only after a district court makes
+independent findings of both materiality and intent
+may it weigh the two against each other in its ultimate
+determination of inequitable conduct. Materiality
+and intent are different requirements, and absent
+a finding of deceptive intent, no amount of materiality
+gives the district court discretion to find inequitable
+conduct. Star Scientific, 537 F.3d at 1365
+(If a threshold level of intent to deceive or materiality
+is not established by clear and convincing
+evidence, the district court does not have any discretion
+to exercise and cannot hold the patent unenforceable
+regardless of the relative equities or
+how it might balance them.); see Aventis Pharma
+S.A. v. Amphastar Pharms., Inc., 525 F.3d 1334,
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 16
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+1350 (Fed.Cir.2008) (Rader, J., dissenting)
+(Merging intent and materiality at levels far below
+the Kingsdown rule has revived the inequitable conduct
+tactic.). [C]ourts must be vigilant in not permitting
+the defense [of inequitable conduct] to be
+applied too lightly. Star Scientific, 537 F.3d at
+1366. Because Lilly failed to establish the
+threshold level of intent to deceive ... by clear and
+convincing evidence, the district correct correctly
+concluded that the '516 patent was not unenforceable
+due to inequitable conduct. Id. at 1365.
+CONCLUSION
+Because we hold that claims 80, 95, 144, and
+145 of the '516 patent are invalid for lack of written
+description, we need not address infringement or
+the other validity issues on appeal. We affirm the
+district court's ruling that the '516 patent is not unenforceable
+due to inequitable conduct. The judgment
+below is
+REVERSED-IN-PART AND AFFIRMEDIN-
+PART.
+LINN, Circuit Judge, concurring.
+I join the opinion of the court because I concur
+that it is supported by our precedent. I write separately
+to emphasize, as I have before, my belief that
+our engrafting of a separate written description requirement
+onto section 112, paragraph 1 is misguided.
+See, e.g., Univ. of Rochester v. G.D. Searle
+& Co., Inc., 375 F.3d 1303, 1325-27 (Fed.Cir.2004)
+(Linn, J., dissenting from denial of rehearing en
+banc); Enzo Biochem, Inc. v. Gen-Probe Inc., 323
+F.3d 956, 987-89 (Fed.Cir.2002) (Linn, J., dissenting
+from denial of rehearing en banc). As I observed
+in University of Rochester, section 112,
+paragraph 1 requires no more of the specification
+than a disclosure that is sufficient to enable a person
+having ordinary skill in the art to make and use
+the invention:
+Section 112 of Title 35 of the United States
+Code requires a written description of the invention,
+but the measure of the sufficiency of that
+written description in meeting the conditions of
+patentability in paragraph 1 of that statute depends
+solely on whether it enables any person
+skilled in the art to which the invention pertains
+to make and use the claimed invention and sets
+forth the best mode of carrying out the invention.
+The question presented by *138135 U.S.C.  112,
+paragraph 1, is not, Does the written description
+disclose what the invention is? The question is,
+Does the written description describe the invention
+recited in the claims-themselves part of the
+specification-in terms that are sufficient to enable
+one of skill in the art to make and use the claimed
+invention and practice the best mode contemplated
+by the inventor? That is the mandate of
+the statute and is all our precedent demanded prior
+to Regents of the University of California v.
+Eli Lilly & Co., 119 F.3d 1559 (Fed.Cir.1997).
+375 F.3d at 1325.
+As both this court and the Supreme Court have
+recognized, the claims-not the specification-define
+the invention. See Aro Mfg. Co. v. Convertible Top
+Replacement Co., 365 U.S. 336, 339, 81 S.Ct. 599,
+5 L.Ed.2d 592 (1961) ([T]he claims made in the
+patent are the sole measure of the grant.); see also
+Johnson & Johnston Assocs. Inc. v. R.E. Serv. Co.,
+285 F.3d 1046, 1052 (Fed.Cir.2002) (en banc)
+(Consistent with its scope definition and notice
+functions, the claim requirement presupposes that a
+patent applicant defines his invention in the claims,
+not in the specification. After all, the claims, not
+the specification, provide the measure of the pat-
+entee's right to exclude.). The court's invention of
+a separate written description requirement has
+create[d] confusion as to where the public and the
+courts should look to determine the scope of the
+patentee's right to exclude, University of
+Rochester, 375 F.3d at 1326, causing uncertainty
+in how inventions are protected, in how the [Patent
+& Trademark Office] discharges its responsibilities,
+and in how business is conducted in emerging
+fields of law, id. at 1327.
+Aside from these general observations, I note
+that the written description requirement does separ
+2011 Thomson Reuters. No Claim to Orig. US Gov. Works.
+
+FOR EDUCATIONAL USE ONLY Page 17
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+(Cite as: 560 F.3d 1366)
+ate mischief in this case. Because the court relies
+upon this requirement to reverse the district court, it
+does not reach the important enablement issue
+raised by Lilly. As the majority opinion observes,
+the claims-in-suit broadly claim any method for reducing
+NF-KB activity in cells, including both
+known and unknown methods. We have long held
+that in order to survive the enablement requirement,
+the specification must describe the manner and
+process of making and using the invention so as to
+enable a person of skill in the art to make and use
+the full scope of the invention without undue experimentation.
+LizardTech, Inc. v. Earth Res. Mapping,
+Inc., 424 F.3d 1336, 1344-45 (Fed.Cir.2005)
+(emphasis added); see also Invitrogen Corp. v.
+Clontech Labs., Inc., 429 F.3d 1052, 1070
+(Fed.Cir.2005). To my knowledge, however, we
+have not specifically addressed this requirement in
+relation to the type of claims at issue here-that is,
+claims written broadly enough to cover any method
+for achieving a particular result. It may be, as Lilly
+argues, that such a claim can never be valid, since
+the specification cannot enable unknown methods.
+Cf. In re Hyatt, 708 F.2d 712, 714 (Fed.Cir.1983)
+(rejecting single means claim, as such claims
+cover[ ] every conceivable means for achieving
+the stated result). This is an important issue that
+we have left unresolved. It is an issue that we
+would have been compelled to reach had the case
+been decided on enablement grounds, a basis found
+in section 112, instead of on written description
+grounds, a separate basis not justified under that
+section or any other provision of the Patent Act.
+C.A.Fed. (Mass.),2009.
+Ariad Pharmaceuticals, Inc. v. Eli Lilly and Co.
+560 F.3d 1366, 90 U.S.P.Q.2d 1549
+
